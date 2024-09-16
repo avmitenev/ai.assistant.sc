@@ -95,7 +95,9 @@ def get_chain(openai_api_key=None, huggingfacehub_api_token=None):
     """
     try:
         logging.info('Start creating chain')
+        logging.info('Get retriever')
         ensemble_retriever = get_retriever(openai_api_key=openai_api_key)
+        logging.info('Create full chain')
         chain = create_full_chain(
             ensemble_retriever,
             openai_api_key=openai_api_key,
