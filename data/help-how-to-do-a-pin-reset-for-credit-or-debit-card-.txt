@@ -1,0 +1,33 @@
+## How to do a pin reset for credit or debit card 
+
+**How to do a pin reset for credit or debit card**
+
+**STEP 1**
+
+Login to the App
+
+**STEP 2**
+
+Select “Service Requests”
+
+**STEP 3**
+
+Go to “Card Management”
+
+Select “Change Debit Card PIN” if changing debit card PIN
+
+Select “Change Credit Card PIN” if changing credit card PIN
+
+**STEP 4**
+
+Select the appropriate card
+
+**STEP 5**
+
+Enter and re-enter you new PIN
+
+**STEP 6**
+
+Input OTP and continue to change PIN
+
+© Standard Chartered 2024 

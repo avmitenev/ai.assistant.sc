@@ -1,0 +1,181 @@
+## Standard Chartered Mobile Key – Your virtual security token.
+
+Use your mobile phone as your token? Of course you can.
+
+Standard Chartered Mobile Key is a virtual security token which securely authenticates your login and transactions without the need for One-Time-Passwords via SMS.
+
+
+*   ![Image 12: Ke sc mobile key step ](https://av.sc.com/ke/content/images/ke-sc-mobile-key-step-01.gif)
+*   ![Image 13: Ke sc mobile key step ](https://av.sc.com/ke/content/images/ke-sc-mobile-key-step-02.jpg)
+*   ![Image 14: Ke sc mobile key step ](https://av.sc.com/ke/content/images/ke-sc-mobile-key-step-03.jpg)
+*   ![Image 15: Ke sc mobile key step ](https://av.sc.com/ke/content/images/ke-sc-mobile-key-step-04.jpg)
+*   ![Image 16: Ke sc mobile key step ](https://av.sc.com/ke/content/images/ke-sc-mobile-key-step-05.jpg)
+
+
+### Register Your Standard Chartered Mobile Key
+
+**STEP 1**
+
+Log in to your Standard Chartered Mobile app, and you will be prompted to register for SC Mobile Key (Transaction PIN).
+
+**STEP 2**
+
+Click on Register, an SMS with OTP will be sent to your registered mobile number.
+
+**STEP 3**
+
+Key in your preferred 6 digits SC Mobile Key (Transaction PIN).
+
+**STEP 4**
+
+Re-enter your 6-digit SC Mobile Key (Transaction PIN).
+
+**STEP 5**
+
+Once registration is successful, all your transactions on SC Mobile and Online Banking will require the use of 6-digit PIN to authenticate.
+
+
+### Learn more about SC Mobile Key
+
+[### How to change your SC Mobile Key PIN?](https://www.sc.com/ke/help/standard-chartered-mobile-key/how-to-change-your-sc-mobile-key-pin/ "How to change your SC Mobile Key PIN?")
+
+Learn how to change your SC Mobile Key PIN
+
+[Read More](https://www.sc.com/ke/help/standard-chartered-mobile-key/how-to-change-your-sc-mobile-key-pin/ "Read More")
+
+
+[### How to login to Online Banking using SC Mobile Key](https://www.sc.com/ke/help/standard-chartered-mobile-key/how-to-login-to-online-banking-using-sc-mobile-key/ "How to login to Online Banking using SC Mobile Key")
+
+Learn how to login to Online Banking using SC Mobile Key
+
+[Read More](https://www.sc.com/ke/help/standard-chartered-mobile-key/how-to-login-to-online-banking-using-sc-mobile-key/ "Read More")
+
+
+[### How to login to Online Banking using SC Mobile Key PIN (Offline PIN) ?](https://www.sc.com/ke/help/standard-chartered-mobile-key/how-to-login-to-online-banking-using-sc-mobile-key-offline-pin/ "How to login to Online Banking using SC Mobile Key PIN (Offline PIN) ?")
+
+Learn how to ogin to Online Banking using SC Mobile Key PIN (Offline PIN)
+
+[Read More](https://www.sc.com/ke/help/standard-chartered-mobile-key/how-to-login-to-online-banking-using-sc-mobile-key-offline-pin/ "Read More")
+
+
+![Image 17: Ke download sc mobile banner](https://av.sc.com/ke/content/images/ke-download-sc-mobile-banner.png)
+
+### IPHONE AND ANDROID APPS
+
+Open an Account anytime, anywhere with our award-winning iPhone and Android mobile banking apps.
+
+*   [](https://itunes.apple.com/us/app/standard-chartered-mobile-banking-kenya/id1114731584?mt=8 "Download on the App store")
+*   [](https://play.google.com/store/apps/details?id=com.scb.breezebanking.ke "GET IT on Google Play")
+
+### FAQs
+
+*    What is the Standard Chartered Mobile Key?
+
+    The Standard Chartered Mobile Key is a virtual security token embedded in your Standard Chartered Mobile app which will enable you to authenticate your mobile or online banking login and transactions through your mobile device.
+
+*    What are the benefits of the Standard Chartered Mobile Key?
+
+    Seamless: You will no longer need to key in SMS OTPs to authenticate your banking transactions.
+
+    Secure: When you perform sensitive activities such as adding a new payee, Standard Chartered Mobile Key digitally signs these transactions, adding a layer of security on top of the transaction.
+
+    Anywhere: Standard Chartered Mobile Key works even when you do not have data or mobile network connectivity. You can still generate your OTP and do transaction signing in offline mode.
+
+*    How does the Standard Chartered Mobile Key make banking online safer for you?
+
+    The Standard Chartered Mobile Key comes with enhanced encryption capabilities which improves the overall security of your mobile app. It will also help you to securely authenticate your logins and transactions on both Online Banking and the Standard Chartered Mobile app.
+
+*    Is it compulsory to register for Standard Chartered Mobile Key?
+
+    Yes, you will be required to register for the Standard Chartered Mobile Key when you upgrade or download the new SC Mobile App. The SC Mobile Key will be required to perform sensitive online or mobile banking activities that require transaction authentication. These transactions include:
+
+    Adding a new beneficiary;  
+    Transferring funds  
+    Making bills payment  
+    and much more…
+
+    We will never send you an email asking you to complete your SC Mobile Key registration via a link. We will also never send you an email that your account is on temporary hold until you register for SC Mobile Key. Be wary of such emails from fraudster
+
+*    How do I enable Standard Chartered Mobile key?
+
+    There are 2 ways to register.
+
+    1\. Standard Chartered Mobile Key Introduction Screen  
+       **•**  Log in to the Standard Chartered Mobile app  
+       **•**  You should see an introduction screen for Standard Chartered Mobile Key  
+       **•**  Click on ‘Register Now’ and follow the on-screen instructions to complete registration
+
+    2\. Post-login menu  
+       **•**  Log in to the Standard Chartered Mobile app  
+       **•**  Click on the menu icon located on the top left of the screen  
+       **•**  Click on ‘Settings’  
+       **•**  Click on ‘Standard Chartered Mobile Key’  
+       **•**  Click on ‘Register Now’ and follow the on-screen instructions to complete registration.
+
+
+*    Will I receive any notification alerts after registration?
+
+    Yes, you will receive both SMS and email alerts after registration.
+
+*    Why do I need to set up a PIN for my Standard Chartered Mobile Key?
+
+    The PIN provides an additional layer of security in authenticating sensitive transactions such as adding a new payee and updating personal particulars via online or mobile banking.
+
+*    What if I want to change my PIN for my Standard Chartered Mobile Key?
+
+    You can change your PIN by logging in to the Standard Chartered Mobile app.
+
+    1.  Go to ‘Settings’ and select ‘SC Mobile Key’.
+    2.  Click on ‘Change PIN for SC Mobile Key’.
+    3.  Follow the on-screen instructions to change your PIN.
+
+    Your PIN change is immediate.
+
+*    What if I forgot the PIN for my Standard Chartered Mobile Key?
+
+    You can change your PIN by logging in to the Standard Chartered Mobile app.
+
+    1.  Go to ‘Settings’ and select ‘SC Mobile Key’
+    2.  Click on ‘Change PIN for SC Mobile Key’
+    3.  Select ‘Forgot PIN’ and follow the on-screen instructions to reset your PIN
+
+    Your PIN change is immediate.
+
+*    I have entered multiple incorrect PIN tries and now I am not able to log in to Online Banking or the Standard Chartered Mobile app. What should I do?
+
+    When you log in to the Standard Chartered Mobile app, you will be prompted to re-register for Standard Chartered Mobile Key. Follow the on-screen instructions to complete registration for Standard Chartered Mobile Key and resume using Online Banking and/or the Standard Chartered Mobile app.
+
+*    I am not sure if the Standard Chartered Mobile app is supported on my phone. How do I confirm this?
+
+    The Standard Chartered Mobile app is supported on Apple iPhones with iOS 11 and above and smartphones with Android 5.0 and above.
+
+*    How many devices can I register the Standard Chartered Mobile Key on?
+
+    For your security, you are only allowed to set up Standard Chartered Mobile Key on one mobile device.
+
+    When you register for Standard Chartered Mobile Key on a new mobile device, this will automatically disable Standard Chartered Mobile Key on the previous device.
+
+*    I am already registered for Standard Chartered Mobile Key on my mobile device. Can I still log in using a second device to view my account details and perform banking transactions without registering for Standard Chartered Mobile Key?
+
+    Yes, you may log in using a second device without registering for Standard Chartered Mobile Key on the second device. You can authenticate your login/transaction by approving the Push Notification sent to the mobile device that is registered for Standard Chartered Mobile Key.
+
+*    What if I lose my mobile device?
+
+    Please download the Standard Chartered Mobile app on your new device and re-register for the Standard Chartered Mobile Key. This will immediately disable the Standard Chartered Mobile Key from the previous device that you have lost.
+
+    For immediate assistance, please call our 24-hour Client Contact Centre on +254203293900 or +254703093900.
+
+*    What if I am travelling and do not have a data or network connection on my mobile?
+
+    Standard Chartered Mobile Key can still work even when you do not have data or mobile network connectivity. You can generate an offline PIN to authenticate your logins and transactions on Online Banking.
+
+    While logging in/performing a transaction – when prompted to authenticate using Standard Chartered Mobile Key,
+
+    *   On the Online Banking screen, click “Generate an Offline PIN” located at the bottom of the screen
+    *   Open the Standard Chartered Mobile app on your device that is registered for the Standard Chartered Mobile Key
+    *   From the Welcome screen, click on the menu icon located on the top left of the screen **– You do not need to log in**
+    *   Select ‘Offline PIN’
+    *   Depending on your transaction type, select either ‘Generate Offline PIN for Login’ or ‘Generate Offline PIN for Transactions’.
+    *   You are required to key in your 6-digit PIN to retrieve the offline PIN for authentication
+
+Read More Read Less

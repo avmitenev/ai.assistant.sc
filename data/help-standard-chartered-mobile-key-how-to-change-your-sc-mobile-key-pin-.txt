@@ -1,0 +1,36 @@
+## How to change your SC Mobile Key PIN?
+
+**STEP 1**
+
+Login to the App & click on “Settings”.
+
+**STEP 2**
+
+Select “SC Mobile Key”.
+
+**STEP 3**
+
+Click “Change PIN for SC Mobile Key”.
+
+**STEP 4**
+
+Enter Old PIN.
+
+**STEP 5**
+
+Create new PIN.
+
+**STEP 6**
+
+Confirm new PIN.
+
+**STEP 7**
+
+PIN has successfully changed.
+
+## IPHONE AND ANDROID APPS
+
+Open an Account anytime, anywhere with our award-winning iPhone and Android mobile banking apps.
+
+*   [Download on the App store](https://itunes.apple.com/us/app/standard-chartered-mobile-banking-kenya/id1114731584?mt=8)
+*   [GET IT on Google Play](https://play.google.com/store/apps/details?id=com.scb.breezebanking.ke) 

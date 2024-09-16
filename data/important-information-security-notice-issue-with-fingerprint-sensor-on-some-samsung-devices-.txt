@@ -1,0 +1,13 @@
+## Security Notice – Issue with fingerprint sensor on some Samsung devices
+
+There have been reports on the fingerprint sensor of some Samsung Galaxy devices where any fingerprint can be used to unlock a fingerprint-protected device. Affected models include Samsung Galaxy S10/S10+, Samsung Galaxy Note 10/10+ and Samsung Galaxy Tab S6.
+
+To prevent any unauthorized access to Standard Chartered Online Banking or SC Mobile, clients using these devices are advised to disable fingerprint protection on their devices and use pattern, PIN, or passwords until a fix has been issued by Samsung.
+
+**How to disable fingerprint login for Samsung Devices:**
+
+*   Settings > Lock Screen > Screen Lock Type > Toggle off ‘Fingerprints’
+
+**How to disable fingerprint login for SC Mobile:**
+
+*   Login to SC Mobile > Side Menu > Settings > Fingerprint > Toggle off ‘Enable Fingerprint’ 

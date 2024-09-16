@@ -1,0 +1,149 @@
+## Cultivate an Understanding of Bonds – Beginners Guide
+
+Managing your wealth well is like tending a beautiful formal garden – you need to start with good soil and a good set of tools. Just as good soil has the proper fertility to nourish a plant, having the right foundation in financial literacy should empower you to potentially cultivate a successful investment portfolio. **Cultivate an Understanding of Bonds** is part of our **financial education series** to help educate you on the fundamentals of investing as you tend your very own financial garden.
+
+### What is a Bond?
+
+If you are looking to build up a well-diversified portfolio, you will usually be advised to include both stocks and bonds among your investments. While stocks may offer you the potential for capital appreciation, bonds may provide a steady stream of investment income, and play an important role of potentially lowering your overall portfolio risks.
+
+A bond is a debt security where the bond issuer (the borrower) issues the bond for purchase by the bondholder (the lender). It is also known as a fixed income security, as a bond usually gives the investor a regular or fixed return.
+
+When you invest in a bond, you are essentially lending a sum of money to the bond issuer. In return, you are usually entitled to receive:
+
+* **interest payments** (coupon) at scheduled intervals; and 
+* **capital repayment** of your initial principal amount at an agreed date in the future (maturity date).
+
+Typical bond issuers include:
+
+* Sovereign entities
+* Governments/Government agencies
+* Banks
+* Non-bank financial institutions
+* Corporations
+
+### How do Bonds Work?
+
+**Example of bond issuers and their funding needs**
+
+**Corporations**
+
+* Cash for operating expenses
+* Capital for growth and expansion
+* Funds for corporate acquisitions
+
+**Government Treasury**
+
+* Cash for budgeted national expenditure
+* Funds for repayment of national debt
+
+**States, Cities, Townships**
+
+* Cash for operating expenses
+* Funds to build public infrastructure (for example, roads, housing, parks)
+
+### What Types of Bonds are there?
+
+**Bonds are differentiated by their varying payment features**
+
+**Fixed-rate bond**
+
+The interest or coupon rate of the bond is fixed for the entire term (tenor) of the bond. If the bond comes with an embedded issuer call option, the bond issuer may prepay the bond at certain pre-determined dates.
+
+**Floating-rate bond**
+
+Unlike Fixed-rate bonds, the coupon or interest rate of a Floating-rate bond is variable. The interest rate is reset at each coupon payment date, in accordance with a predetermined interest rate index. As in the case for Fixed-rate bonds, issuer call options may also be embedded.
+
+**Subordinated bond**
+
+This type of bond has a lower repayment priority than other bonds issued by the same issuer in the event of the liquidation or bankruptcy of the issuer. A subordinated bond has a lower credit rating because it carries higher risks but pays higher returns than other non-subordinated bonds of the same issuer. These bonds are usually issued by banks.
+
+**Convertible bond**
+
+These bonds allow the bondholder and/or issuer to convert them into shares of common stocks/shares in the issuing corporation at a pre-determined price in the future when certain conversion criteria are fulfilled. Such bonds are usually issued by companies and tend to pay lower coupon rates than ordinary bonds of the issuer due to the attractiveness of the conversion feature.
+
+**TIPS (Treasury Inflation Protected Securities)**
+
+These bonds peg their principal amount to the inflation index, therefore protecting the bondholder against inflation. Such bonds are issued by governments.
+
+**Zero-coupon bond**
+
+Also known as a discount or deep discount bond, this bond is bought at a price lower than its face value, with the face value repaid at the time of maturity. It does not make periodic interest or coupon payments, hence the term zero-coupon bond.
+
+### Why Invest in Bonds?
+
+1. **Higher returns than bank deposits**
+    Bonds typically pay a higher yield (return) than bank deposits of a similar term (tenor).
+2. **Regular income**
+    Bond issuers are bound by the terms of the bond to pay out regular coupon income to bondholders (subject to credit risk of the issuer).
+3. **Hedge against inflation**
+    With proper bond selection, you may potentially earn an investment return which keeps pace with or even exceed the inflation rate.
+4. **Capital appreciation**
+    Like all instruments traded in the secondary market, the price of bonds can appreciate (or depreciate) over and above (or below) the initial purchase price, and allow you to realize capital gains (or capital losses).
+
+### What are the Risks?
+
+**Credit or Default risk**
+
+This is the risk that the bond issuer or borrower is unable to meet the coupon or principal payments on any outstanding bonds or debt (not just the bonds you may be holding) when they fall due (for example, due to bankruptcy or insolvency), and go into default.
+
+**Interest rate risk**
+
+Interest rates and bond prices are inversely related. Should interest rates rise, the price of your bond will tend to fall (and vice versa). The longer the time to maturity of a bond, the greater the interest rate risk.
+
+**Foreign Exchange risk**
+
+Some bonds are denominated (and the issuer’s payments made) in a foreign currency, which may fluctuate against your home currency. The impact of such foreign exchange movements may offset any interest or capital returns you may receive from the bond investment.
+
+**Liquidity risk**
+
+This is the risk of having to sell a bond at discounted prices due to the lack of a ready market or buyer. When a bond has a low credit rating (for example, due to the fact that it is part of a small issue or that the issuer’s financial situation is questionable), the liquidity risk will tend to be higher.
+
+**Event risk**
+
+Events such as leveraged buyouts, mergers, or regulatory changes may adversely affect both (i) the bond issuer’s ability to make payments on the bond, and (ii) the price of the bond.
+
+**Sovereign risk**
+
+Payment of the bond may be affected by the political and economic events in the country of the issuer of the bond. For example, the issuer may be forced to make payments in the local currency of the issuer’s country instead of the original currency of the bond.
+
+Click here to read our “[Advanced Guide to Investing in Bonds](https://www.sc.com/ke/investments/learn/understanding-bonds/)“
+
+### How can we help you further?
+
+Do you have a question on what you have just read?
+
+Would you like to have a further discussion on this subject?
+
+[Contact your Relationship Manager](https://www.sc.com/ke/investments/learn/understanding-bonds-for-beginners/#sc-lb-module-embedded-form), or any of our Standard Chartered Bank locations closest to you for more information.
+
+### Disclaimer
+
+This article is for general information only and it does not constitute an offer, recommendation or solicitation of an offer to enter into any transaction or adopt any hedging, trading or investment strategy, in relation to any securities or other financial instruments. This article has not been prepared for any particular person or class of persons and does not constitute and should not be construed as investment advice or an investment recommendation. It has been prepared without regard to the specific investment objectives, financial situation or particular needs of any person or class of persons. You should seek advice from a licensed or an exempt financial adviser on the suitability of a product for you, taking into account these factors before making a commitment to purchase any product or invest in an investment. In the event that you choose not to seek advice from a licensed or an exempt financial adviser, you should carefully consider whether the product or service described herein is suitable for you.
+
+**Important Information**
+
+Standard Chartered Bank (SCB) is incorporated in England with limited liability by Royal Charter in 1853 Reference Number ZC 18 and its principal office is situated in England at 1 Aldermanbury Square, London EC2V 7SB. In the United Kingdom, SCB is authorised and regulated by the Financial Services Authority (‘FSA’) and is entered into the FSA register under number 114276. Banking services may be carried out internationally by different SCB legal entities according to local regulatory requirements. Not all products and services are provided by all SCB branches, subsidiaries and affiliates.
+
+The material and information contained in this document is provided from sources believed to be reliable and is for general information only. The products and strategies conveyed may not be suitable for everyone and should not be used as a basis for making business decisions. Opinions expressed in this document are subject to change without notice. This document does not constitute an offer, solicitation or invitation to transact business in any country where the marketing or sale of these products and services would not be permitted under local laws. The contents of this document have not been reviewed by any regulatory authority. If you are in doubt about any of the contents, you should seek independent professional advice. No part of this document may be reproduced in any manner without the written permission of SCB.
+
+**Country/Market Specific Disclosures**
+
+This document is being distributed in Kenya by, and is attributable to Standard Chartered Bank Kenya Limited. Investment Products and Services are distributed by Standard Chartered Investment Services Limited, a wholly owned subsidiary of Standard Chartered Bank Kenya Limited (Standard Chartered Bank/the Bank) that is licensed by the Capital Markets Authority as a Fund Manager. Standard Chartered Bank Kenya Limited is regulated by the Central Bank of Kenya.
+
+Read More Read Less
+
+### Related Links
+
+[![Image 13: Hedge, Plant, Fence](https://av.sc.com/ke/content/images/understanding-bonds-masthead-1600x490y.jpg) ### Advanced guide to investing in Bonds | Investment 101](https://www.sc.com/ke/investments/learn/understanding-bonds/ "Advanced guide to investing in Bonds | Investment 101")
+
+[![Image 14: Ke wealth builder pintile](https://av.sc.com/ke/content/images/ke-wealth-builder-pintile.jpg) ### Mutual Funds](https://www.sc.com/ke/investments/mutual-funds/ "Mutual Funds")
+
+[![Image 15: Ke secured wealth ](https://av.sc.com/ke/content/images/ke-secured-wealth-1600x490.jpg) ### Wealth Lending](https://www.sc.com/ke/investments/wealth-lending/ "Wealth Lending")
+
+[![Image 16: High Rise, City, Urban](https://av.sc.com/ke/content/images/ke-office-building-400x-400y.jpg) ### Fixed Income Securities](https://www.sc.com/ke/investments/fixed-income-securities/ "Fixed Income Securities")
+
+[![Image 17: Ke premium currency investments ](https://av.sc.com/ke/content/images/ke-premium-currency-investments-400x400.jpg) ### Foreign Exchange](https://www.sc.com/ke/investments/fx/ "Foreign Exchange")
+
+[BACK TO TOP](https://www.sc.com/ke/investments/learn/understanding-bonds-for-beginners/#)
+
+© Standard Chartered 2024 

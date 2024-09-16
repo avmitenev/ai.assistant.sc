@@ -1,0 +1,169 @@
+## Beginners Guide to Investing in Mutual Funds | Investment 101
+
+**Growing wealth with Mutual Funds** is part of our **financial education series** to explain the fundamentals of investing to help you achieve your financial goals.
+
+### What are Mutual Funds?
+
+Mutual funds is a general term for funds that allow you to pool your money with that of other investors and are managed by a team of investment professionals. The term may vary across countries but mutual funds may also be referred to as collective investment schemes, unit trusts or simply as funds.
+
+The pooling of your money generally creates greater buying power so you are able to invest in a wider range of investments than possible for most individual investors. Each investor in a fund owns units (or shares) which represent a part of a fund’s portfolio holdings.
+
+Mutual funds can be categorized by the type of assets they invest in (such as shares, bonds, cash or other securities). You can refer to the mutual fund’s prospectus and factsheet to get a better understanding of their respective investment objectives and policy (for example, type and mix of investments) and past performance.
+
+Mutual funds are open-ended funds but some investment schemes are structured as closed-ended.
+
+**Open-ended funds** – can issue and redeem units at times specified to meet subscription or redemption requests made by investors. Generally, buying and selling of units takes place directly between investors and the fund or its agents. The price per unit of an open-end fund will vary in proportion to the fund’s net asset value, and therefore reflect the fund’s performance.
+
+The price per unit of an open-end fund is known as its net asset value or NAV.
+
+This is calculated as follows:
+
+**Fund’s assets – Fund’s liabilities**
+
+* * *
+
+**Number of units issued**
+
+### Types of Mutual funds that are available
+
+There are many types of mutual funds, but broadly speaking they can be divided into four main categories:
+
+**Equity Stock Funds**
+
+As the name suggests, Equity Funds consist mainly of stock investments and are the most common type of mutual funds. Equity Funds focus on a particular type of investment strategy such as Growth, Value, Large Caps and Small Caps or themes such as Property, Energy and Healthcare. The underlying shares can be invested globally, regionally or in single countries.
+
+**Bond (Fixed Income) Funds**
+
+Bond Funds invest mainly in debt instruments including government bonds, corporate bonds or mortgage-backed securities. The return that a Bond Fund may have can vary depending on the type of bond. Typically, Bond Funds that invest in short-term bonds tend to be less volatile than longer term bonds. Bond Funds that invest in corporate bonds generally do so to obtain higher yields, thus carrying greater risk than government bonds.
+
+**Money Market Funds**
+
+Money Market Funds seek to maintain a stable net asset value by investing in the short-term, high-grade securities sold in the money market. These are generally the safest, most stable securities available, including Treasury bills, certificates of deposit and commercial paper.
+
+**Hybrid (Multi Asset) Funds**
+
+Hybrid Funds invest in a mix of stocks and bonds and may also hold money market instruments which can vary proportionally over time or remain fixed.
+
+### Benefits of investing in mutual funds
+
+**Diversification**
+
+A mutual fund can give you instant diversification. With as little as US$1,000 you can buy a fund which invests in equity and bond markets around the world. The investment risk is spread over many securities, thus potentially reducing the volatility of your portfolio.
+
+**Active, Professional Management**
+
+You can enjoy professional management when you invest in a mutual fund. The investment professionals will manage the funds on your behalf using their experience, skills and resources.
+
+**Liquidity**
+
+Generally, for mutual funds that are priced daily and open-ended, you can redeem your units any day and get your money back promptly at the prevailing price (net asset value) of the fund. It is best to refer to the fund’s prospectus or factsheets to better understand the price at which the fund will redeem your units. Conveniently and easily cash out your investment at any time at market value within 10 International business working days.
+
+**Affordability**
+
+Start investing from as low as USD 100 through the Monthly Plan or an initial lumpsum of USD 1000.
+
+### Risks of investing in Mutual funds
+
+When you invest in a mutual fund, you should receive a prospectus, which will detail the risks involved in investing in the mutual fund. We have outlined examples of general risks relating to an investment in a mutual fund, but it is important for you to review each prospectus in detail so that you are aware of all the risks you may incur for any particular mutual fund.
+
+**Market Risk**
+
+This is the risk that the value of a mutual fund’s investments may fluctuate in response to broader market movements – for example, in the stock or bond markets. In addition, the market price (net asset value) of mutual funds may fluctuate in response to volatility in their component investments.
+
+**Currency Risk**
+
+If a mutual fund invests in overseas securities, this is the risk that any adverse foreign exchange movement in the currencies of denomination of these securities against the mutual fund’s own reporting currency will have a negative impact on the mutual fund’s net asset value.
+
+**Investment Objective Risk**
+
+This is the risk that your objectives will not be met by investing in the mutual fund.
+
+**Liquidity risk**
+
+There could be a possibility that mutual funds won’t be traded quickly enough in the market to prevent a loss or make the planned profit. The Product may not always have a liquid secondary market which might make it difficult to establish a fair price at the time of purchase or sale.
+
+### Difference between a stock and a mutual fund
+
+When you own shares of an individual stock, you are in effect, a direct owner of that company. By owning a stock you also assume the risks associated with that one company. For example, if that company goes bankrupt, you can lose all your investment in that stock. If you have a strong view about a particular stock and the direction of the stock market, you can potentially profit by trading the stock.
+
+When you own a share of a mutual fund, you are pooling together with other investors and own a share of a portfolio comprising many stocks. This can help diversify the stock holdings and reduce the risk associated with individual stock ownership. Moreover the fund is managed by a professional manager who decides what stocks to buy and what stocks to sell, that is, the manager makes the trading decisions on behalf of unitholders.
+
+Mutual funds are designed for longer-term holding rather than short-term trading. In fact short-term trading by unitholders can hurt fund performance due to higher transaction costs borne by the fund in order to unwind positions at possibly unfavourable times to meet frequent redemption requests.
+
+### What are the fees for investing in mutual funds?
+
+Mutual funds charge various fees and it is best to refer to the fund’s prospectus or factsheets to understand what you are being charged.
+
+Examples of fees that may be charged:
+
+**Management Fee**
+
+Typically charged to the fund to pay the investment manager of the fund.
+
+**Entry Fee**
+
+Typically called a sales charge, it is deducted directly by the distributor.
+
+Any fees that are charged to the fund is paid out of fund assets and will be indirectly borne by the investors.
+
+### Glossary (Investment Terms)
+
+Alpha
+
+A measure of selection risk of a mutual fund in relation to the market. A positive alpha is the return awarded to the fund manager for taking a risk, instead of accepting the market return. For example, an alpha of 0.4 means the fund outperformed the market-based return estimate by 0.4%.
+
+Arbitrage
+
+Arbitrage can be described as a technique of simultaneously buying a security at a lower price in one market (for example, cash market) and selling at a higher price in another market (for example, futures market) to make a profit on the spread between the prices.
+
+Beta
+
+A measure of sensitivity of your investment to market movement.
+
+1 Beta – indicates that the investment should move in line with the market.
+< 1 Beta – means that the investment should be less volatile than the market.
+> 1 Beta – indicates that the investment should be more volatile than the market. For example, if a stock’s beta is 1.2, it is theoretically 20% more volatile than the market.
+
+Information Ratio
+
+A statistical ratio which is a measure of the consistency of the excess return or value add of the investment manager. It aims to measure the value that has been added by a manager per unit of risk taken relative to the benchmark. All else being equal, the higher the information ratio, the better.
+
+Mark to Market
+
+The current market valuation for every security in a portfolio used in determining the NAV of a fund.
+
+Sharpe Ratio
+
+A ratio to measure risk-adjusted performance. It is calculated by subtracting the risk-free rate (deposit rate) from the rate of return for a portfolio and dividing the result by the standard deviation of the portfolio returns. The Sharpe ratio tells us whether the returns of a portfolio are due to smart investment decisions or a result of excessive risk taken by the manager.
+
+Standard Deviation
+
+Measures the dispersion of a series of returns from the mean return. When returns are normally distributed, an individual return will fall within one standard deviation of the mean about two-thirds of the time. For example, if your investment has an average return of 8% and a standard deviation of 10%, then it means that 68% of the time the return was between – 2% (8% less 10%) and 18% (8% plus 10%).
+
+Theoretically, the higher the standard deviation the higher the investment risk.
+
+Read More Read Less
+
+### Important Information
+
+Investment Products and Services are distributed by Standard Chartered Investment Services Ltd – a wholly-owned subsidiary of Standard Chartered Bank Kenya Limited, that is licensed by the Capital Markets Authority as a Fund Manager.
+
+Standard Chartered Bank is incorporated in England with limited liability by Royal Charter 1853 Reference Number ZC18. The Principal Office of the Company is situated in England at 1 Basinghall Avenue, London, EC2V 5DD. Standard Chartered Bank is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and Prudential Regulation Authority. Standard Chartered PLC, the ultimate parent company of Standard Chartered Bank, together with its subsidiaries and affiliates (including each branch or representative office), form the Standard Chartered Group. Banking services may be carried out internationally by different SCB legal entities according to local regulatory requirements. Not all products and services are provided by all SCB branches, subsidiaries and affiliates.
+
+The material and information contained in this document is provided from sources believed to be reliable and is for general information only. The products and strategies conveyed may not be suitable for everyone and should not be used as a basis for making business decisions. Opinions expressed in this document are subject to change without notice. This document does not constitute an offer, solicitation or invitation to transact business in any country where the marketing or sale of these products and services would not be permitted under local laws. The contents of this document have not been reviewed by any regulatory authority. If you are in doubt about any of the contents, you should seek independent professional advice. No part of this document may be reproduced in any manner without the written permission of SCB.
+
+### Other Investment Products
+
+#### Beginners guide to Investing in Bonds | Investment 101
+
+#### Mutual Funds
+
+#### SC DigiAdvisory
+
+#### Fixed Income Securities
+
+#### Foreign Exchange
+
+[BACK TO TOP]
+
+© Standard Chartered 2024 [Sitemap] 

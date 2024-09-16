@@ -1,0 +1,33 @@
+## How to change profile details, e.g. email address
+
+**How to change profile details, e.g. email address**
+
+**STEP 1**
+
+Login to the App
+
+**STEP 2**
+
+Select “Service Requests”
+
+**STEP 3**
+
+Go to “Personal Details” > “Update Personal Details”
+
+**STEP 4**
+
+Input OTP and submit
+
+**STEP 5**
+
+Change required field(s) and proceed
+
+**STEP 6**
+
+Confirm changes and proceed
+
+**STEP 7**
+
+Enter OTP and submit to complete
+
+© Standard Chartered 2024 

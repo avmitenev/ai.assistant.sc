@@ -1,0 +1,25 @@
+## How to block credit or debit card
+
+**How to block credit or debit card**
+
+**STEP 1**
+
+Login to the App
+
+**STEP 2**
+
+Select “Service Requests”
+
+**STEP 3**
+
+Go to “Card Management”
+
+Select “Block & Replace Debit Card” if blocking a debit card
+
+Select “Report Lost/Stolen Credit Card” if blocking a credit card
+
+**STEP 4**
+
+Enter “Reason to Block” and select the card to be blocked
+
+If replacing, input the address that new card will be delivered to 

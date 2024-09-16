@@ -1,0 +1,23 @@
+## Corporate Commercial & Business Banking Purpose of Payment Codes – Standard Chartered Kenya
+
+This page provides a list of purpose of payment codes for corporate, commercial, and business banking clients of Standard Chartered Kenya. 
+
+**Purpose of Payment Codes**
+
+These codes are used to identify the purpose of a payment transaction. They are required for all payments made through Standard Chartered Kenya's online banking platform and mobile app.
+
+**List of Codes**
+
+| Code | Description |
+|---|---|
+| **SAL** | Salary |
+| **SUP** | Supplier Payment |
+| **EXP** | Expenses |
+| **TAX** | Taxes |
+| **INV** | Investment |
+| **OTH** | Other |
+
+**Note:**  
+
+* This list is not exhaustive and may be updated from time to time.
+* Please contact your relationship manager for any clarification. 

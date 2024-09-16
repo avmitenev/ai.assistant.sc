@@ -1,0 +1,162 @@
+## Cultivate an Understanding of Bonds – Advanced Guide
+
+Managing your wealth well is like tending a beautiful formal garden – you need to start with good soil and a good set of tools. Just as good soil has the proper fertility to nourish a plant, having the right foundation in financial literacy should empower you to potentially cultivate a successful investment portfolio. **Cultivate an Understanding of Bonds** is part of our **financial education series** to help educate you on the fundamentals of investing as you tend your very own financial garden.
+
+Click here to read our “[Beginners Guide to Investing in Bonds](https://www.sc.com/ke/investments/learn/understanding-bonds-for-beginners/)“
+
+### What is a Bond?
+
+If you are looking to build up a well-diversified portfolio, you will usually be advised to include both stocks and bonds among your investments. While stocks may offer you the potential for capital appreciation, bonds may provide a steady stream of investment income, and play an important role of potentially lowering your overall portfolio risks.
+
+A bond is a debt security where the bond issuer (the borrower) issues the bond for purchase by the bondholder (the lender). It is also known as a fixed income security, as a bond usually gives the investor a regular or fixed return.
+
+When you invest in a bond, you are essentially lending a sum of money to the bond issuer. In return, you are usually entitled to receive
+
+*   **interest payments** (coupon) at scheduled intervals; and
+*   **capital repayment** of your initial principal amount at an agreed date in the future (maturity date).
+
+Typical bond issuers include:
+
+*   Sovereign entities
+*   Governments/Government agencies
+*   Banks
+*   Non-bank financial institutions
+*   Corporations
+
+### What is Bond Quality?
+
+Before you make an investment decision to invest in a bond, it is important to consider the quality of the bond (or the creditworthiness of the issuer). You can do that by looking at its assigned bond rating. This is a credit rating given to the bond by specialized rating agencies, after they have reviewed the issuer’s financial condition and debt repayment ability.
+
+Bonds assigned ratings above a certain threshold are considered **investment grade**, while bonds rated below the threshold are known as **sub-investment grade** or **high-yield bonds**.
+
+![Image 12: Plot, Word, Diagram](https://av.sc.com/ke/content/images/bonds-image4.jpg)
+
+### Which Bond is Suitable for You?
+
+Depending on your risk appetite, when making your investment decision you may choose to invest in either an investment grade bond, or a high-yield bond.
+
+An **investment grade bond** is a more secure investment and should give you a stable source of investment income.
+
+A **high-yield bond** pays a relatively higher return but carries with it a higher risk of default – and will therefore require closer monitoring.
+
+However, in all cases, the repayment of bonds is always subject to the creditworthiness of the particular issuer.
+
+### Buy, Hold or Sell?
+
+After you invest in a bond, you can choose to hold on to the bond until maturity. You will receive all the scheduled coupon payments in the intervening period and recover the principal repayment at the end of the term. The rate of return which you will earn from buying and holding the bond to maturity (expressed as a percentage) is referred to as the **bond yield**.
+
+![Image 13: Plot, Word, Text](https://av.sc.com/ke/content/images/bonds-image8.jpg)
+
+Alternatively, as bondholder you may choose to sell the bond in the open market prior to its maturity date. There are secondary bond markets, where – just as in the stock markets – you can monitor bond prices and trade them to try and realise capital gains. To do so, you will need to understand a key determinant of price movements in the bond market – interest rates.
+
+### What is the Inverse Relationship?
+
+There is typically an inverse relationship between bond prices and interest rates. That is, when interest rates rise, bond prices will tend to fall, and vice versa.
+
+![Image 14: Oval](https://av.sc.com/ke/content/images/bonds-image10.jpg)
+
+A simple way to understand this relationship is for you to look at various bonds (and their issuers) as competing recipients for your investment funds. When making your investment decision you will tend to invest in the option which earns you a higher return.
+
+When the interest rate goes up, a newly issued bond (Bond B) will yield more than 5% to keep up with the market. The logical thing in this situation would be to sell the original Bond A and buy the new Bond B to earn a higher return. Such selling pressure on Bond A will depress the price of the bond, causing it to trend downwards – in the opposite direction of interest rates. Alternatively, you could also view it as Bond A having to lower its price to make itself a sufficiently attractive investment for investors to own it.
+
+Conversely, when the interest rate goes down, Bond A will seem a more attractive investment when compared to the newer Bond B which is being issued at a lower yield. The buying interest for Bond A will start to push up the price of the bond – causing it again to move in the opposing direction from the interest rates.
+
+As illustrated in the above example, bondholders may potentially benefit in an environment of falling interest rates as the price of their bond holdings will tend to rise.
+
+Please note that this is an example only and any potential returns set out herein are not indicative of actual returns that may be achieved in any investments that you may decide to make.
+
+**Example**
+
+On August 18, 2010, you buy a Company ABC bond for a nominal amount of US$100,000. It has a fixed coupon of 4.50% p.a. twice a year and matures on September 21, 2015.
+
+This means every March 21 and September 21, a fixed coupon payment of US$2,250 \[(4.5%x $100,000)/2\] will be paid out.
+
+The bond purchase settles 3 business days later on August 23, 2010. The current offer of the bond is at a price of US$106.80 or 3.044% yield to maturity.
+
+**You have to pay:**
+
+Principal payable (US$100,000 X US$106.80/Par Value of US$100) = US$ 106,800
+
+Accrued Interest^ for 152 days (4.5% X US$100,000 X 152/360days) = US$ 1,900
+
+Total = US$108,700
+
+^ Seller has the right to collect interest accrued since the last coupon was paid. ie. interest accumulated for 152 days between the last coupon date (March 21, 2010) and settlement date (August 23, 2010).
+
+If you decide to hold the bond to maturity, ie. September 21, 2015, you will not be subject to the price fluctuations of the bond. If the issuer does not default, you will receive the full nominal amount of the bond, that is, US$100,000 plus the fixed coupon paid twice a year. However, you may decide to sell the bond before maturity.
+
+**Scenario**
+
+![Image 15: Text, Poster, Advertisement](https://av.sc.com/ke/content/images/bonds-image11.jpg)
+
+**Scenario**
+
+![Image 16: Text, Advertisement, Poster](https://av.sc.com/ke/content/images/bonds-image12.jpg)
+
+Please note that these are examples only and any potential returns set out herein are not indicative of actual returns that may be achieved in any investments that you may decide to make.
+
+### What are the Risks?
+
+**Credit or Default risk**
+
+This is the risk that the bond issuer or borrower is unable to meet the coupon or principal payments on any outstanding bonds or debt (not just the bonds you may be holding) when they fall due (for example, due to bankruptcy or insolvency), and go into default.
+
+**Interest rate risk**
+
+Interest rates and bond prices are inversely related. Should interest rates rise, the price of your bond will tend to fall (and vice versa). The longer the time to maturity of a bond, the greater the interest rate risk.
+
+**Foreign Exchange risk**
+
+Some bonds are denominated (and the issuer’s payments made) in a foreign currency, which may fluctuate against your home currency. The impact of such foreign exchange movements may offset any interest or capital returns you may receive from the bond investment.
+
+**Liquidity risk**
+
+This is the risk of having to sell a bond at discounted prices due to the lack of a ready market or buyer. When a bond has a low credit rating (for example, due to the fact that it is part of a small issue or that the issuer’s financial situation is questionable), the liquidity risk will tend to be higher.
+
+**Event risk**
+
+Events such as leveraged buyouts, mergers, or regulatory changes may adversely affect both (i) the bond issuer’s ability to make payments on the bond, and (ii) the price of the bond.
+
+**Sovereign risk**
+
+Payment of the bond may be affected by the political and economic events in the country of the issuer of the bond. For example, the issuer may be forced to make payments in the local currency of the issuer’s country instead of the original currency of the bond.
+
+### How can we help you further?
+
+Do you have a question on what you have just read?
+
+Would you like to have a further discussion on this subject?
+
+[Contact your Relationship Manager](https://www.sc.com/ke/investments/learn/understanding-bonds/#sc-lb-module-embedded-form), or any of our Standard Chartered Bank locations closest to you for more information.
+
+### Disclaimer
+
+This article is for general information only and it does not constitute an offer, recommendation or solicitation of an offer to enter into any transaction or adopt any hedging, trading or investment strategy, in relation to any securities or other financial instruments. This article has not been prepared for any particular person or class of persons and does not constitute and should not be construed as investment advice or an investment recommendation. It has been prepared without regard to the specific investment objectives, financial situation or particular needs of any person or class of persons. You should seek advice from a licensed or an exempt financial adviser on the suitability of a product for you, taking into account these factors before making a commitment to purchase any product or invest in an investment. In the event that you choose not to seek advice from a licensed or an exempt financial adviser, you should carefully consider whether the product or service described herein is suitable for you.
+
+**Important Information**
+
+Standard Chartered Bank (SCB) is incorporated in England with limited liability by Royal Charter in 1853 Reference Number ZC 18 and its principal office is situated in England at 1 Aldermanbury Square, London EC2V 7SB. In the United Kingdom, SCB is authorised and regulated by the Financial Services Authority (‘FSA’) and is entered into the FSA register under number 114276. Banking services may be carried out internationally by different SCB legal entities according to local regulatory requirements. Not all products and services are provided by all SCB branches, subsidiaries and affiliates.
+
+The material and information contained in this document is provided from sources believed to be reliable and is for general information only. The products and strategies conveyed may not be suitable for everyone and should not be used as a basis for making business decisions. Opinions expressed in this document are subject to change without notice. This document does not constitute an offer, solicitation or invitation to transact business in any country where the marketing or sale of these products and services would not be permitted under local laws. The contents of this document have not been reviewed by any regulatory authority. If you are in doubt about any of the contents, you should seek independent professional advice. No part of this document may be reproduced in any manner without the written permission of SCB.
+
+**Country/Market Specific Disclosures**
+
+This document is being distributed in Kenya by, and is attributable to Standard Chartered Bank Kenya Limited. Investment Products and Services are distributed by Standard Chartered Investment Services Limited, a wholly owned subsidiary of Standard Chartered Bank Kenya Limited (Standard Chartered Bank/the Bank) that is licensed by the Capital Markets Authority as a Fund Manager. Standard Chartered Bank Kenya Limited is regulated by the Central Bank of Kenya.
+
+Read More Read Less
+
+### Related Links
+
+[![Image 17: Hedge, Plant, Fence](https://av.sc.com/ke/content/images/understanding-bonds-masthead-1600x490y.jpg) ### Beginners guide to Investing in Bonds | Investment 101](https://www.sc.com/ke/investments/learn/understanding-bonds-for-beginners/ "Beginners guide to Investing in Bonds | Investment 101")
+
+[![Image 18: Ke wealth builder pintile](https://av.sc.com/ke/content/images/ke-wealth-builder-pintile.jpg) ### Mutual Funds](https://www.sc.com/ke/investments/mutual-funds/ "Mutual Funds")
+
+[![Image 19: Ke secured wealth ](https://av.sc.com/ke/content/images/ke-secured-wealth-1600x490.jpg) ### Wealth Lending](https://www.sc.com/ke/investments/wealth-lending/ "Wealth Lending")
+
+[![Image 20: High Rise, City, Urban](https://av.sc.com/ke/content/images/ke-office-building-400x-400y.jpg) ### Fixed Income Securities](https://www.sc.com/ke/investments/fixed-income-securities/ "Fixed Income Securities")
+
+[![Image 21: Ke premium currency investments ](https://av.sc.com/ke/content/images/ke-premium-currency-investments-400x400.jpg) ### Foreign Exchange](https://www.sc.com/ke/investments/fx/ "Foreign Exchange")
+
+[BACK TO TOP](https://www.sc.com/ke/investments/learn/understanding-bonds/#)
+
+© Standard Chartered 2024 

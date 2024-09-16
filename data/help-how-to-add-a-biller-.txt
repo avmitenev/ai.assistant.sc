@@ -1,0 +1,33 @@
+## How to add a Biller
+
+How to add a biller?
+
+*   ![Image 12: login to app](https://av.sc.com/ke/content/images/ke-login-to-app.png)
+*   ![Image 13: ke how to add a biller step1](https://av.sc.com/ke/content/images/ke-how-to-add-a-biller-step1-494x1024.jpg)
+*   ![Image 14: ke how to add a biller step2](https://av.sc.com/ke/content/images/ke-how-to-add-a-biller-step2-494x1024.jpg)
+*   ![Image 15: how to add a biller step3](https://av.sc.com/ke/content/images/ke-how-to-add-a-biller-step3-494x1024.jpg)
+*   ![Image 16: ke how to add a biller step4](https://av.sc.com/ke/content/images/ke-how-to-add-a-biller-step4-494x1024.jpg)
+
+**How to add a Biller**
+
+**STEP 1**
+
+Login to the App
+
+**STEP 2**
+
+Go to “Payments” > “Add Biller”
+
+**STEP 3**
+
+Select Biller Type and input required details
+
+**STEP 4**
+
+Confirm details and continue
+
+**STEP 5**
+
+Input OTP and continue to successfully add Biller
+
+© Standard Chartered 2024 
