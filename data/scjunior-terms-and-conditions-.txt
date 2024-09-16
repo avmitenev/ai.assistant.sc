@@ -1,0 +1,157 @@
+## SC Junior Banking Terms and Conditions
+
+**Ownership of the Mobile Application**
+
+The SC Junior Mobile Application (the “App”) is owned and operated by Standard Chartered Bank (“SCB”). Your use of the App is governed by these Terms and Conditions (“Terms”) and our SC Junior Privacy Policy (the “Privacy Policy”).
+
+**Availability and using the App**
+
+These are the Terms governing access and use of the App and gaining access to the App for its use. You (the “User”) hereby agree to abide by the Terms available on the App. If you do not agree to these Terms, you must immediately discontinue your access or use and uninstall and/or delete the App from your device.
+
+The availability and proper functioning of the App depends on many variable circumstances, including location, mobile network and internet availability and signal strength, and proper functioning of hardware, software, your mobile network operator and mobile device. Access to and downloading of the App is free, except for the cost of connection through the telecommunications network provided by your internet access provider.
+
+The App is available for download from Google Play and iTunes app stores.
+
+Upon downloading the App, we grant you a revocable, non-transferable, non-sublicensable, limited license to use the App on a mobile device you own and control for your personal purposes, subject to these Terms.
+
+You undertake not to use the App for any fraudulent purposes or carry on any conduct that may damage the image, interests and rights of SCB or third parties. You also undertake to use the App, services and contents included therein diligently, correctly and lawfully. In particular, you undertake not to delete, avoid or manipulate the copyright and other data identifying the rights of SCB included in the contents of the App as well as the technical protection devices or any information mechanisms that may include such contents. You also undertake not to take any action to damage, disable or overload the App, or in any way hinder its normal use and operation.
+
+If you fail to comply with these Terms or SCB reasonably suspects that you are failing to comply therewith, SCB reserves the right to limit, suspend or terminate access to the App, adopting any technical measures necessary for that purpose. SCB also reserves the right to decide, at any time, whether to continue providing you with the Service it provides through the App.
+
+**Operations of the App**
+
+**Important notice to Juniors**: If you are below the age of 18 years, please ensure that you have obtained your parent’s or legal guardian’s permission to download and register for this App; please also obtain your parent’s or legal guardian’s explicit consent and acceptance to these Terms on your behalf. In the event you, the Junior, have attained the legal contracting age of Kenya (18 years), you shall accept and agree to these Terms on your own behalf.
+
+**A Junior** – Is any individual below the age of 18 years.
+
+**Important notice to parents / legal guardians**: These Terms govern the use by both you and your child of the App, including a child for whom you are the legal guardian (henceforth known as a ‘Junior’). By downloading the App and/or creating the respective accounts (i.e. the parent account and the Junior account) for yourself and the Junior, you agree to these Terms on your behalf, as well as on the Junior’s behalf. You represent to us that you are lawfully able to enter these Terms, and that you are the legal guardian of the Junior and you accept and agree to these Terms on their behalf. You further warrant and represent that you will explain these Terms to the Junior and procure that the Junior complies with these Terms and shall indemnify SCB against all losses arising from any breaches of these Terms by the Junior and/or the Junior’s use of the App. Unless otherwise stated, all references henceforth to ‘you’; ‘your’; and ‘yourself’ in these Terms and the Privacy Policy shall mean you and the Junior on whose behalf you are accepting these Terms and the Privacy Policy.
+
+**Importance notice to Guardians**: You can only be added as a secondary operator by an existing accountholder of SCB who has already downloaded the App. These Terms shall also govern the use by you of the App and you represent to us that you are lawfully able to enter these Terms. The term legal guardians in these Terms is defined as a person who has been appointed by a court or otherwise has the legal authority (and the corresponding duty) to care for a minor, while Guardian (capitalized) refers to any additional family member or relative endorsed by the parent / legal guardians to interact and oversee a child’s activities within SC Junior.
+
+**Accessing the App**
+
+Where you (the parent or legal guardian) are an existing Standard Chartered online/mobile banking user, your account login credentials for the App shall be your online/mobile banking credentials (i.e. your username and password) (this primary account shall be known as the “Parent”). Please however note that the App’s functionality and contents are not integrated or connected to the SCB online/mobile banking App’s functionality. For Juniors or Guardians, your account can only be activated by way of a QR code generated from the Parent’s account and after your account activated, you can continue to access the App via a unique 6 digit PIN (passcode). Parents, Juniors and Guardians may also opt to access the App via the SC Junior biometric login service; should you choose to do so by undergoing the registration process, you accept and agree to the **_SC Junior biometric login service terms_** in the Annex below.
+
+You (the parent or legal guardian) shall be liable for all actions performed under your SC Junior account. You confirm that any person who uses your login credentials is authorised to access and use the App on your behalf and any instructions or actions under your SC Junior account shall be deemed to have originated from you if the correct login credentials were submitted.
+
+**Products and services**
+
+You understand that the primary/sole purpose of the App is to educate children on financial literacy and skills, under the supervision and guidance of their parent or legal guardian.
+
+You understand that there are respective Parent, Junior and Guardians accounts for the App and these are linked accounts for which the relevant content and information provided on one account will be automatically shared and displayed on the other linked account. Please note that a Junior and Guardian account can be disabled but cannot be unlinked from its Parent account. Guardians are restricted from adding, editing and delete Juniors and other Guardian profiles, and can not accept redemption of rewards requests. The Guardian shall receive the same notifications as the Parent.
+
+The App allows Parents, Juniors and Guardians to log into the App and access their respective profiles, adjust settings, view dashboards, capture s and goal activities, and navigate financial literacy content. **A goal** is an outcome of an activity/task given to a child by the parent or guardian and once they complete they get a reward in the gamification for purposes of financial education.
+
+The information and material on the App is not an offer, solicitation, invitation, advice or recommendation for products or financial services by SCB. The App does not allow you to directly buy or receive financial products and services. The contents of the App do not constitute an offer, recommendation or solicitation to enter into any transaction or adopt any hedging, trading or investment strategy, in relation to any securities or other financial instruments. It does not take into account the specific banking and/or investment objectives, financial situation or particular needs of any particular person or class of persons and it has not been prepared for any particular person or class of persons.
+
+The App is not a live transactional or banking app; you cannot, therefore, use the App to execute any banking transactions.
+
+The App has a rewards and wallet feature (including a reference to ‘diamonds’ that a Junior can accumulate). You understand that these rewards and wallet are purely for intra-app use and are non-monetary in nature and cannot be converted into or redeemed for cash or cash equivalent.
+
+You further understand that the App does not issue, manage or custodise any digital or payment tokens and/or any other form of digital currency.
+
+At the Parent’s election, the App can display the balance of Bitcoin and Ethereum cryptocurrency wallets (“**Balance Data**”) retrieved via API of public blockchain nodes from external third party Blockchain.Info, subject to the Parents entering in their Public Key. The App only allows input of Public Keys and does not accept any Private Keys and SCB does not conduct any validation on the wallet ownership. The information displayed is from third party external sources and the cryptocurrency displayed are not SCB banking products. Please note that whilst the wallet balance can be displayed, the App does not support any form of transaction, dealings, transfer or buy/sell of cryptocurrency and the App does not endorse or recommend the trading of cryptocurrency. The sole aim of this feature is for educational and informational purposes. Cryptocurrency balances displayed in indicative USD Fiat currency equivalent value . Such Balance Data is from a third party external source and is provided “as is” and “as available”, and SCB hereby disclaims all warranties, express, statutory, or implied (including, without limitation, implied warranties of title, non-infringement, merchantability, fitness for a particular purpose, and all warranties arising from course of dealing, usage or trade practice). SCB makes no guarantees regarding the accuracy, completeness, timeliness, security, availability, or integrity of the Balance Data and it is provided by a public API link outside the control of SCB. You access and reliance on the Balance Data is entirely at your sole risk, and SCB will not be responsible for any actions you take based on the Balance Data.
+
+If you wish to opt to receive alerts from the App, you will need to enable the ‘Push Notification’ function on your mobile device for the App. Push Notification is a service provided by Apple and Google for their respective mobile operating systems i.e. iOS and Android respectively through which an iOS or Android mobile app (in this case, our App) can send a user (who has installed the mobile app) a notification. Please therefore ensure that the Push Notification function of your mobile device is correctly activated and updated, connected to the relevant WIFI or data network, and is not disabled or deleted.
+
+**Jurisdiction**
+
+The App is intended for access and download by users in Kenya. If accessing the App from a particular country or jurisdiction would be illegal, you must not do so. You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+
+**Disclaimer**
+
+The material and information contained on the App is provided for general information only. We make no representation or warranty of any kind, whether express, implied or statutory regarding the material and information contained or referred to in the App.
+
+We may make available third-party providers’ content through the App. We are not responsible for and make no representation or warranty of any kind, whether express, implied or statutory regarding the third-party providers’ content available through the App. You agree not to make any claim against SCB for acts or omissions of such third parties.
+
+Our inclusion of hyperlinks on the site or the App does not imply any endorsement of the material on such sites. Any hyperlink exists for information purposes and are for your convenience only. We are not responsible for the contents of third-party websites. If you visit third party websites, then your rights and obligations while accessing and using those sites will be governed by the agreements and policies relating to use of those third-party sites.
+
+**Limitation of liability**
+
+To the maximum extent permitted by applicable law, we accept no liability for any loss or damage (including special, incidental or consequential loss or damage) arising directly or indirectly from your download and use of the App, howsoever arising from, but not limited to:
+
+*   any defect, error, imperfection, fault, mistake or inaccuracy with the App, its contents (including content from third party providers), associated services, or due to any unavailability of this App or any local site, hyperlink or any part thereof or any contents or associated services;
+*   any action taken, or not taken in reliance on material, content or information contained on the App; and
+*   any computer viruses, Trojan horses, worms, software bombs or similar items. You click on any hyperlinks or download any software or data at your own risk.
+
+You agree to indemnify and hold us, our officers, directors, shareholders, predecessors, successors in interest, employees, agents, subsidiaries and affiliates, harmless from any demands, loss, liability, claims or expenses (including legal fees), made against any third party due to or arising out of or in connection with your use of the App.
+
+SCB accepts no liability for contents which are illegal, harmful or contrary to morals, uses and good practices and which are the responsibility of a third parties or the User.
+
+SCB shall not be liable for damages of any kind caused to Users resulting in failures of or disconnections from telecommunications networks that give rise to the suspension, cancellation or interruption of service of the App while it is providing such service or prior thereto. You acknowledge that access to the App requires services provided by third parties outside SCB’s control (for example: telecommunications network operators, access providers, etc.), the reliability, quality, continuity and operation of which is not SCB’s responsibility.
+
+**Personal data – SC Junior Privacy Policy**
+
+Any personal information you provide when using the App will be processed and used in accordance with our Privacy Policy ([https://www.sc.com/ke/website-privacy-statement/](https://www.sc.com/ke/website-privacy-statement/)). By using the App. you agree to the terms of the _SC Junior Privacy Policy_ ([https://www.sc.comscjunior-privacy-policy/](https://www.sc.com/ke/scjunior-privacy-policy/)), which are incorporated herein by reference.
+
+**Security**
+
+It is your sole responsibility to ensure that any user ID and/or password used by you in connection with the App is kept secure, and that no person or entity other than you obtains access to that user ID and/or password, including logging off securely to prevent any unauthorised access to your confidential information. Please notify us immediately you learn of any unauthorized use of your username or password or of any other breach of security in connection with the App.
+
+**Intellectual property rights**
+
+All rights (including, but not limited to, copyright) in and to the contents (including, but not limited to, trade marks, trade names text, graphics, images, links and sounds) registered or unregistered, contained on the App is owned by or licensed to SCB or our affiliates, and may not, unless expressly permitted, be copied, modified, downloaded, distributed or published in any way without the prior written consent of SCB, our affiliates, or licensors, as the case may be. If any content on the App is permitted for use, you shall comply with all terms of use, conditions, guidelines, or restrictions that apply to that content.
+
+“SC Junior” is a trademark logo and service mark of SCB and no permission or licence is granted to use any such trademarks, logos or service marks without the prior written consent of SCB.
+
+You are expressly forbidden from reproducing any elements of the App or its contents for profit or commercial purposes.
+
+In relation to any information or material you submit to us using the App, you hereby grant to SCB and other members of the SCB Group a worldwide, royalty-free, perpetual, irrevocable, sub-licensable right and licence to use such information or material for any purpose it deems appropriate under the relevant privacy policy, including without limitation, the copying, modification, transmission, distribution and publication thereof, unless restricted by applicable law. You represent and warrant that such information or material you submit does not infringe the rights of any other third party.
+
+You agree that we shall not be under any obligation of confidentiality to you regarding any such information or material submitted to it using the app and/or our social media accounts unless otherwise agreed in a separate direct contract between us or required by law Any personal data disclosed to SCB will be subject to the terms of the Privacy Policy.
+
+**Modification**
+
+We reserve the right to amend, modify or change these Terms and any information, material, or functionality contained on the App. The amendments take effect from the date they are placed on the App. You are advised to visit the App regularly to check for any amendments or modifications.
+
+These Terms in force at the time will apply to each activity carried out using the App and may be updated from time to time.
+
+**Termination**
+
+We may stop providing the services in the App at any time. You may also close or disable your account in the App at any time.
+
+**Force Majeure**
+
+SCB will not be liable for any failure or delay in fulfilling any of its obligations under these Terms and in the operation of the App that is caused by an event beyond its control or Force Majeure. For the purpose of this clause, Force Majeure means any act or event beyond SCB’s reasonable control, including, but not limited to, strikes, lockouts or other action by third parties, supplier failure or delay, civil commotion, riot, invasion, terrorist attack or threat of terrorist attack, war (declared or not) or threat or preparation for war, fire, explosion, storm, flood, earthquake, subsidence, epidemic, pandemic or any other natural disaster, or failure of public or private telecommunication networks.
+
+Should a Force Majeure event occur, which affects the fulfilment of SCB’s obligations under these Terms, SCB will notify you as soon as reasonably possible.
+
+**Governing law**
+
+These Terms and any other matter relating to the use of the services that SCB will provide using the App shall be governed by and construed according Kenya laws. Any dispute, controversy or claim arising out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the Kenya courts.
+
+**General**
+
+SCB reserves the right to transfer its rights and obligations under these Terms to another company or organisation.
+
+Any contract concluded in accordance with these Terms is between the User and SCB or its assignees or successors in title. No third party shall have any right to enforce any of its terms. In any case, access, navigation and use of the App and, if applicable, the use of the services that are offered through it are under the sole and exclusive responsibility of the user.
+
+Failure to enforce any obligation does not imply a waiver of the right to request it at a later date.
+
+In the event that any provision contained in these Terms is declared invalid, it shall be removed or replaced. In any case, such invalidity shall not affect the validity of the remaining provisions contained in these Terms.
+
+**Contact**
+
+You may direct questions, complaints or claims to: [scjunior.privacy@sc.com](mailto:scjunior.privacy@sc.com)
+
+**Annex to the Terms: SC Junior biometric login service terms (“Biometric Login Terms”)**
+
+1.  These Biometric Login Terms apply to and regulate your use of the SC Junior biometric login service. By undergoing the registration process to use the SC Junior biometric login service, or using the SC Junior biometric login service, you accept and agree to these Biometric Login Terms.
+2.  The SC Junior biometric login service is a service where you may use your fingerprint or face identification registered on a permitted mobile device in lieu of your Standard Chartered online/mobile banking username and password or designated app passcode as a security code to confirm your identity to access the App.
+3.  You acknowledge and agree that in order to use the SC Junior biometric login service:
+
+1.  NaN.  You will need to activate the fingerprint / face recognition function on your mobile device and register your face identification or at least one of your fingerprints to control access to the mobile device; and
+    NaN.  You must ensure that only your face / fingerprint identification are stored on your mobile device to access the device and you understand that upon the successful registration of your permitted mobile device, any face / fingerprint identification that is stored on your mobile device can be used to access the App.
+
+4.  Each time the App detects the use of a face / fingerprint identification registered on a mobile device  on which you have registered for the SC Junior biometric login service to access the App, you are deemed to have accessed the App and/or provided us the relevant instructions as the case may be.
+5.  You acknowledge that the authentication is performed by the Appby interfacing with the face / fingerprint identification authentication module on the mobile device and that you agree to the authentication process.
+6.  You can deactivate the SC Junior biometric login service at any time using the left navigation menu of the App once you are signed in.
+7.  If you inform us that the security of your face / fingerprint identification or other security code has been compromised, we may require you to change the security code, re-register your face / fingerprint identification or cease the use of the SC Junior biometric login service.
+8.  You acknowledge and agree that, for the purposes of the SC Junior biometric login service, the Appwill be accessing the face / fingerprint identification protected by your mobile device, and you hereby consent to SCB using this mechanism and using such functionality for the provision of the SC Junior biometric login service.
+9.  You understand the need to protect your mobile deviceand shall be responsible for all use of your mobile device (whether authorised by you or otherwise) to access the SC Junior biometric login service.
+10.  You understand that the face / fingerprint authentication module of the mobile deviceis not provided by SCB, and we make no representation or warranty as to the security of the face / fingerprint authentication function of any mobile device and whether it works in the way that the manufacturer of the device represents.
+11.  We do not represent or warrant that the SC Junior biometric login service will be accessible at all times, or function with any electronic equipment, software, infrastructure that SCB may offer from time to time
+12.  Unless a law prohibits us from excluding or limiting our liability, we are not liable for any loss you incur in connection with the use or attempted use of the SC Junior biometric login service, or your instructions.
+13.  You shall indemnify us from all loss and damage which we may incur in connection with any improper use of the SC Junior biometric login service.
+
+© Standard Chartered 2024 

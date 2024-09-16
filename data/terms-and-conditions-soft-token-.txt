@@ -1,0 +1,29 @@
+## Terms and Conditions for the use of the Standard Chartered Mobile Key (Transaction PIN) service
+
+1.  These terms and conditions (“Terms”) apply to and regulate your use of the Standard Chartered Mobile Key (Transaction PIN) service provided by Standard Chartered Bank Kenya Limited (hereinafter referred to as the “Bank” or “we” or “us” or “Standard Chartered”). By undergoing the registration process to use the Standard Chartered Mobile Key (Transaction PIN) service and/or using the Standard Chartered Mobile Key (Transaction PIN), you accept and agree to these Terms as may be amended and updated from time to time. If you do not accept these Terms, please stop accessing or using the Standard Chartered Mobile Key (Transaction PIN) service.
+2.  The Standard Chartered Mobile Key (Transaction PIN) service is provided as part of the Bank’s electronic banking services, and accordingly:
+    1.  these Terms are in addition to and shall be read with the Client Terms, our privacy notice as may be published on our website and any other documents forming part of our banking agreement (and any reference to the terms and conditions of the Client Terms shall include reference to these Terms);
+    2.  the Client Terms may be accessed at [https://www.sc.com/ke/terms-and-conditions/](https://www.sc.com/ke/terms-and-conditions/)
+    3.  the meaning of key words which apply to the services referred to in these Terms are explained at the end of these Terms; and
+    4.  in the event of any conflict or inconsistency, these Terms shall prevail over the Client Terms in respect to the use of the Standard Chartered Mobile Key (Transaction PIN) service and to the extent of such conflict or inconsistency.
+3.  You acknowledge and agree that in order to use the Standard Chartered Mobile Key (Transaction PIN) service:
+    1.  you will be required to undergo a registration process using 2FA via SMS and set up a PIN for your Standard Chartered Mobile Key (Transaction PIN) as a security code to confirm your identity to access the Bank’s electronic banking services; and
+    2.  after you complete the registration process, in order for you to continue to use the Standard Chartered Mobile Key (Transaction PIN) service (which utilises Push Notification), you must ensure that Push Notification continues to be enabled on your mobile device for the Standard Chartered mobile app.
+4.  If you inform us that the security of your mobile app, your Transaction PIN or security code has been compromised, or that the electronic equipment which you use to access any electronic banking services is lost or stolen, we may require you to change the security code, re-register for the Standard Chartered Mobile Key (Transaction PIN) service or cease the use of the Standard Chartered Mobile Key (Transaction PIN) service.
+5.  You are responsible for:
+    1.  the security code used to access the Standard Chartered Mobile Key (Transaction PIN) service; as well as
+    2.  the security of your mobile device.
+6.  In addition to and without prejudice to the disclaimers and exclusions of liability in the Client Terms (as found in the link above):
+    1.  we do not represent or warrant that the Standard Chartered Mobile Key (Transaction PIN) service will be accessible at all times, or function with any electronic equipment, software, infrastructure or other electronic banking services that we may offer from time to time;
+    2.  subject to applicable law, we are not liable for any loss you incur in connection with the use or attempted use of the Standard Chartered Mobile Key (Transaction PIN) service, or your instructions, or any unauthorised transactions through or in connection with the Standard Chartered Mobile Key (Transaction PIN) service; and
+    3.  you hereby indemnify us from all loss and damage which we may incur in connection with any improper use of the Standard Chartered Mobile Key (Transaction PIN) service.
+
+**DEFINITIONS**
+
+**Standard Chartered Mobile Key (Transaction PIN)** is a 6-digit PIN set by client which securely authenticates transactions without the need for (physical) hard token or One-Time-Passwords via SMS.
+
+**Push Notification** is a service provided by mobile operating systems through which the respective app can send a user (who has installed the mobile app) a notification
+
+**2FA**  is a second (2nd) Factor Authentication, sometimes referred to as two-step verification or dual factor authentication, is a security process in which the user provides two different authentication factors to verify themselves to better protect the user’s credentials and authentication.
+
+© Standard Chartered 2024 

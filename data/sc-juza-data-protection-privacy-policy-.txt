@@ -1,0 +1,154 @@
+## SC JUZA Data Protection Privacy Policy
+
+**Privacy Policy**
+
+This Privacy Policy governs the collection, use and disclosure of your Personal Data, including special or sensitive personal data, by any member of the Standard Chartered Group (“Bank”, “we” or “our”). Personal Data is information relating to an individual (“you” or “your”).
+
+The Data Controller of your Personal Data in this Privacy Policy is Standard Chartered Bank Kenya Limited with whom you have a relationship through the SC JUZA App.
+
+We respect the privacy of your Personal Data and will treat it confidentially and securely.
+
+**Your Personal Data**
+
+Personal data comprises all the details we hold or collect about you, directly or indirectly, your transactions, transactions you effect, financial information, interactions and dealings with us, including information received from third parties, the public domain, collected through use of our website, cookies and our SC JUZA App.
+
+You authorise us to collect, process and store your Personal Data including:
+
+1. information provided to us by you through the SC JUZA App (this information includes your National Identity Number and your Mobile Phone Number).
+2. technical information collected from you and your device through the SC JUZA App. Technical information includes: the type of mobile device you use, unique device identifiers i.e. IMEI or serial number, the SIM card used in the device, mobile network information, the operating system, time zone setting; and location information to determine your current or past location;
+3. information from your use of other third-party applications on the device or the Service Sites including Google and Social Media sites such as Facebook; and
+4. details of your use of any of our Apps or your visits to any of our service sites; and
+5. information received from third parties including government agencies, credit reference agencies and mobile network providers.
+6. cookies and similar technologies
+
+We gather certain information automatically and store it in log files. This information may include your internet protocol (IP) address, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. From time to time, we may combine this automatically collected data to other information we collect about you for reasons such as analysis, security, content generation or marketing.
+
+If you do not provide us with personal data, we need to meet our legal and regulatory obligations or to enter into an agreement with you we may not be able to provide you with the products or services you have requested.
+
+**Purposes for which we may process your Personal Data**
+
+Any Personal Data received from any of the above sources about you through the SC JUZA App will be used for the purpose of:
+
+* processing applications for products and services,
+* effecting transactions and completing instructions or requests;
+* providing products and services (including as provided electronically);
+* updating bank records;
+* understanding your financial needs;
+* assessing suitability for products and services;
+* credit assessment, including conducting credit checks and setting credit limits and assisting other financial institutions to conduct credit checks;
+* operational purposes;
+* statistical purposes;
+* establishment, continuation and management of the relationship and accounts;
+* contacting and informing you of our other products and services which may be of interest to you;
+* debt collection purposes;
+* the prevention, detection, investigation and prosecution of crime in any jurisdiction (including, without limitation, money laundering, terrorism, fraud, among others);
+* identity verification, government sanctions screening and due diligence checks;
+* to comply with local or foreign law, regulations, directives, judgments or court orders, government sanctions or embargoes, reporting requirements under financial transactions legislation, and demands of any authority, regulator, tribunal, enforcement agency, or exchange body.
+* improving the design and marketing of our range of services and related products for customer use.
+* to effect agreements between any member of the Standard Chartered Group and any authority, regulator, or enforcement agency; to comply with policies (including the Standard Chartered Group’s policies) and good practice standards where it is in our legitimate interest to do so
+* to seek professional advice, including, in connection with any legal proceedings (including any prospective legal proceedings), for obtaining legal advice or for establishing, exercising or defending legal rights.
+
+**To whom we may disclose Personal Data**
+
+Other than to those individuals and entities listed below your details will not be revealed by the Bank to any external body, unless the Bank has your permission, or is under either a legal obligation or any other duty to do so. For the purposes detailed above, your information may be disclosed;
+
+* to any member of the Standard Chartered Group anywhere in the world, including any officer, employee, agent or director and their advisors;
+* to and from any local or international law enforcement or competent regulatory or governmental agencies to assist in the prevention, detection, investigation or prosecution of criminal activities or fraud;
+* to and from the Bank’s service providers, dealers, agents or any other company that may be or become the Bank’s subsidiary or holding company for reasonable commercial purposes relating to the Services;
+* to any debt collection agency, credit bureau or credit reference agency, rating agency correspondents, insurer or insurance broker, direct or indirect provider of credit protection and fraud prevention agencies;
+* to any financial institution which you have or may have dealings with to conduct credit checks, anti-money laundering related checks, fraud prevention and detection of crime purposes;
+* to the Bank’s lawyers, auditors or other professional advisors or to any court or arbitration tribunal in connection with any legal or audit proceedings;
+* to Safaricom in connection with the M-PESA Service and other Services;
+* to our business alliance partners who may provide their product or service to you;
+* to any actual or potential participant or sub participant in relation to any of our obligations under the terms and conditions between us governing the Services offered through SC JUZA App or assignee, novatee or transferee (or any officer, employee, agent or adviser of any of them);
+* for reasonable commercial purposes connected to your use of the Services, such as marketing and research related activities;
+* in business practices including but not limited to quality control, training and ensuring effective systems operation;
+* subject to laws and regulations upon your death or mental incapacity, your legal representative and their legal advisers, and a member of your immediate family for the purpose of allowing him/ her to make payment on your account;
+* any authorised person or any security provider;
+* anyone we consider necessary to facilitate your Requests for Services; and
+* anyone we consider necessary to provide you with services in connection with the SC JUZA App,
+* to comply with local or foreign law, regulations, directives, judgments or court orders, government sanctions or embargoes, reporting requirements under financial transactions legislation, and demands of any authority, regulator, tribunal, enforcement agency, or exchange body.
+
+The above disclosures may require the transfer of your information to parties located in countries outside Kenya. We will ensure that parties to whom your details are transferred treat your information securely and confidentially. We also pledge our intention fully to meet any internationally recognised standards of personal data privacy protection and to comply with applicable data protection and privacy laws. We may transfer your information if it is necessary to perform our contract with you and by providing details to us via the SC JUZA App you are deemed to consent to any other transfers.
+
+**Security**
+
+The security of your personal data is important to us. We have technical and organisational security measures in place to safeguard your personal data. When using external service providers, we require that they adhere to security standards mandated by us. We may do this through contractual provisions, including any required by a privacy regulator, and oversight of the service provider. Regardless of where personal data is transferred, we take all steps reasonably necessary to ensure that personal data is kept securely.
+
+You should be aware that electronic communication is not a secure form of communication and sending us any personal data electronically carries with it risks including the risk of access and interference by unauthorised third parties. Information passing over the Internet may be transmitted internationally (even when sender and recipient are located in the same country) via countries with weaker privacy and data protection laws than in your country of residence.
+
+**Retention**
+
+Information held about you is retained as long as the purpose for which the information was collected continues or as required under regulatory requirements. The information is then destroyed unless its retention is required to satisfy legal, regulatory, or accounting requirements or to protect Bank’s interests. In the majority of cases, the information will be retained for seven years from the end of your relationship with us.
+
+It is your responsibility to maintain the secrecy of any user login password you hold for this SC JUZA App.
+
+**Monitoring**
+
+To the extent permitted by law, we may record and monitor your electronic communications with us to ensure compliance with our legal and regulatory obligations and internal policies for the purposes outlined above.
+
+**Automated decisions and profiling**
+
+We may use profiling, including behavioural analysis, to assist us to provide you with better services, to make decisions and to prevent money laundering, terrorism, fraud and other financial crime. If any profiling will result in an automated decision relating to you, we will let you know, and you will have the right to discuss the decision with us.
+
+**Marketing and Push Notifications**
+
+We may use your Personal Data:
+
+1. to conduct market research and surveys with the aim of improving our products and services;
+2. for marketing purposes, promotional events, competitions, and lucky draws**.
+
+We may also occasionally send you push notifications through the SC JUZA mobile application to send you marketing messages and other Service or transaction-related notifications that may be of importance to you. We process your Personal Data for these purposes because it is in the interest of our business to do so with the intention of improving our products and services and generating business. We will not send you marketing material if you have specifically asked us not to do so.
+
+You have the right, at any time, to opt-out from receiving these types of communications by turning them off at the device level through your settings or through the mobile application settings. You may also contact us through the Chat Service available on the SC JUZA App.
+
+**Your Rights**
+
+Subject to applicable law, regulations and/or banking industry guidelines, you may have the following rights:
+
+* **Access** 
+To request a copy of the personal data processed in relation to you. SCB may be allowed by law to charge a fee for this.
+* **Correction** 
+To request that we correct your personal data. You can do this at your branch or through your relationship manager.
+* **Erasure** 
+To ask us to delete your personal data, for example, if we no longer have a valid reason to process it.
+* **Object** 
+To object to how we process your personal data. This does not mean you can decide or choose how we process your personal data other than in relation to marketing. If you have any concerns about how we process your personal data, please contact us through the Chat Service available on the SC JUZA App. We may not be able to offer you services if you do not want us to process the personal data, we consider it necessary to process to provide the services.
+* **Restriction** 
+To restrict how your personal data is processed in certain cases, such as when the accuracy of your Personal Data is contested. If you have any concerns about how we process your Personal Data, please contact us through the Chat Service available on the SC JUZA App.
+* **Portability** 
+To request a copy of the personal data you have given to us in a machine-readable format.
+
+**Cookies**
+
+In order to improve our service to you, we will occasionally use a “cookie” and/or other similar files or programs which may place certain information on your devices’ hard drive when you visit the SC JUZA App. A cookie is a small amount of data that our web server sends to your application when you visit certain parts of the SC JUZA App. We may use cookies to:
+
+* allow us to recognise the device you are using when you return to our App so that we can understand your interest in our App and tailor its content and advertisements to match your interests (This type of cookie may be stored permanently on your device but does not contain any information that can identify you personally.);
+* identify you after you have logged in by storing a temporary reference number in the cookie so that our web server can conduct a dialogue with you while simultaneously dealing with other customers. (Your browser keeps this type of cookie until you log off or close your browser when these types of cookies are normally deleted. No other information is stored in this type of cookie.);
+* allow you to carry information across pages of the SC JUZA App and avoid having to re-enter that information;
+* enable us to produce statistical information (anonymous) which helps us to improve the structure and content of the SC JUZA App.
+* enable us to evaluate the effectiveness of our advertising and promotions.
+
+Cookies do not enable us to gather Personal Data about you unless you give the information to our server. Most Internet browser software allows the blocking of all cookies or enables you to receive a warning before a cookie is stored. Please see our separate [Cookie Policy](https://www.sc.com/en/cookie-policy/).
+
+**Other Terms**
+
+There are specific Terms and Conditions for the Services offered under SC JUZA App that govern the collection, use and disclosure of your Personal Data. The Terms and Conditions shall be read together with this Privacy Policy.
+
+**How to Contact Us**
+
+If you wish to access and exercise any rights, you have on your personal data or if you have any questions concerning our Privacy Policy, please contact the Bank through the Chat Service available on the SC JUZA App.
+
+You may also have the right to access details held by credit reference agencies and the Bank will supply details of the relevant agencies upon request.
+
+You may also have the right to complain to the data protection authority as appropriate in Kenya.
+
+**Changes to this Privacy Policy**
+
+This Privacy Policy may be updated from time to time. We will place any such amendments on this SC JUZA App. Any amendments thereto take effect on their date of publication, and you are advised to check the Privacy Policy on the SC JUZA App regularly for any amendments.
+
+**Linked Websites**
+
+Our Privacy Policy does not apply to third-party websites where our online advertisements are displayed or to linked third-party websites which we do not operate or control.
+
+This Privacy Policy is not intended to, nor does it, create any contractual rights whatsoever or any other legal rights, nor does it create any obligations on the Bank in respect of any other party or on behalf of any party. 

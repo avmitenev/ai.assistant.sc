@@ -1,0 +1,156 @@
+## SC Junior Privacy Policy – Standard Chartered Kenya
+
+### **SC Junior Privacy Policy**
+
+**Introduction**
+
+We at Standard Chartered Group believe in transparency and are committed to being transparent about how we will handle personal data.
+
+This privacy policy relates to the collection, use and disclosure of personal data, including sensitive personal data, by any member of the Standard Chartered Group, that we may collect about your child and guardian by their use of SC Junior Mobile Application and financial education within the app (“App”) under the supervision of their parent, legal guardian or guardian (“you” and “your”). Information about how we collect, use and disclose your (i.e. the parent, legal guardian’s or guardian) own personal data in connection with the App, your SCB accounts, the usage of SC Junior and other services we provide is covered under your existing privacy policy applicable to your SCB relationship and account(s) and not only limited to [https://www.sc.com/en/privacy-policy/](https://www.sc.com/en/privacy-policy/).
+
+The relevant data controllers for the personal data collected through the App shall be _**SC JUNIOR**_ and _**S****TANDARD CHARTERED BANK KENYA LIMITED**_ incorporated in Kenya registration number C.11/89 and whose principal office in Kenya is at Standard Chartered Head Office Chiromo, 48 Westlands Road, P.O. Box 30003-00100, Nairobi (“SCB”, “we”, “us” and “our”) and our contact details are provided at the end of this policy. We are responsible for deciding the means and purposes for processing the personal data collected via the App.
+
+This privacy policy was published on 1/12/2021 and takes effect from that date.
+
+**What personal data do we collect and why?**
+
+We collect and use the following personal data via the App:
+
+*   your child’s/guardian name and date of birth
+*   content relating to your child’s/guardian goals set when using the App
+*   usage information such as which content is viewed, and interactions with the App
+*   log data and device information
+*   cookies and similar technologies
+
+We collect your child’s/guardian personal data:
+
+*   when you download and set up an account on the App on behalf of your child/guardian
+*   when you voluntarily complete any customer survey or provide feedback on any of our customer messaging tools
+*   when your child/guardian interacts with us via the App
+*   through indirect sources such as cookies and other incidental App data
+
+**The table below sets out what we use your child’s/guardian personal data for and our lawful basis for doing so in each case.**
+
+**Processing Purpose** | **Lawful Basis**
+---|---|
+To create an account for you and your child/guardian and provide the App. To sync the data provided across the family account you have set up on SC Junior App. | Performance of a contract
+To verify your child’s/guardian identity if you (or your child/guardian) reach out for help or support when they use the App. To help gain a better understanding of support issue(s) and troubleshoot the issue(s) or provide technical details for bug fixes with our engineers. To understand how users interact with the App so we can further develop and improve its performance and the services we currently provide. To analyse and improve the App’s performance across various devices. | Legitimate interest
+To provide communications you may opt-in to, such as updates on your child’s/guardian activity within the account or suggestions to you and other users of the App about features that may be of interest. Where applicable law requires us to do so, to obtain your/guardian (i.e. as parent, legal guardian or guardian) consent to the collection, use, disclosure and other processing of your child’s/guardian personal data. | Consent
+To provide communications about key updates to the terms and conditions, privacy policies or anything else where we have a legal or regulatory obligation to do so. For the prevention, detection, investigation and prosecution of crime in any jurisdiction (including without limitation, money laundering, terrorism, fraud and other financial crimes). To comply with local or foreign law, regulations, directives, judgments or court orders, government sanctions or embargoes, reporting requirements under financial transactions legislation, and demands of any authority, regulator, tribunal, enforcement agency, or exchange body. | Legal obligations
+For the provision of training and education for your child/guardian on financial literacy skills under your supervision as their parent or legal guardian. | Protect vital interests
+
+**Managing children’s information**
+
+In accordance with the DPA, as we will be knowingly collecting personal data from children under 18 years of age when offering the App, we must obtain verifiable parental/legal guardian/guardian consent (“Consent”).
+
+We believe that children should be able to use the Internet in a safe, productive and efficient manner and should be afforded the highest protection available with respect to their personal data. Accordingly, as part of the sign-up process, the App ensures that the individual registering for the account is a parent, legal guardian or guardian of the child that will use the App, and that the parent, legal guardian and guardian is over 18 years of age.
+
+We also abide by the principles of data minimisation and do not collect more personal data than is necessary from any individual in order to participate in an activity. In addition:
+
+*   We take steps to prevent children from posting or publicly disclosing personal data.
+*   You as parent, legal guardian or guardian can edit, update or delete your child’s/guardian personal data within the App.
+*   You can revoke your consent and refuse the further use or collection of personal data from your child/guardian.
+*   Should you wish to access or delete the information we have collected from your child/guardian (subject to our record-keeping obligations under applicable law), you can do so by deleting your child’s/guardian profile from within the App or by contacting us by email at [scjunior.privacy@sc.com](mailto:scjunior.privacy@sc.com).
+
+**Cookies & similar technologies**
+
+In order to improve the content and format of the App and the quality of our services in general, we may utilise cookies and similar tracking technologies and work with third parties to capture and analyse App usage and activity information. This includes how often the App is used, the events that occur within the App, movements on the App, aggregated usage, performance data, device location, the type of device used, and from where the App was downloaded. This is to enable us to measure user preferences, analyse trends, administer the App, and to gather demographic information about our user base as a whole. We do not link the information to any personal data within the App. To choose what cookies you want to accept select **Manage cookies.** To accept all cookies for the best possible experience select **Accept all.** If you’d like to learn more about how we use cookies and to manage your selection visit our Cookie Policy: [https://av.sc.com/ke/content/docs/sc-ke-cookies-policy.pdf](https://av.sc.com/ke/content/docs/sc-ke-cookies-policy.pdf)
+
+**Choice and control**
+
+You, as the parent, legal guardian and guardian of the child using the App, has the choice of providing, editing or removing certain information about your child, as well as choices about how we contact you about your child’s/guardian usage of the App.
+
+You may also control the receipt of certain types of communications from us in your account and the App settings.
+
+We do not process any of your child’s/guardian personal data for marketing purposes.
+
+**International data transfers**
+
+To facilitate our global operations, you acknowledge and agree that we may transfer, store and process your child’s/guardian personal data outside of your country of residence. Where we do so, we ensure that the appropriate safeguards are in place, and that there are commensurate data protection laws in the jurisdiction to which your child’s/guardian personal data is being transferred.
+
+**Security and storage of personal data**
+
+The security of your child’s/guardian personal data is important to us. We have technical and organisational security measures in place to safeguard your child’s/guardian personal data. When using external service providers, we require that they adhere to security standards mandated by us. We may do this through contractual provisions, including any approved by a privacy regulator, and oversight of the service provider. Regardless of where personal data is transferred, we take all steps reasonably necessary to ensure that personal data is kept securely.  
+You should be aware that the Internet is not a secure form of communication and you must not send us (and should ensure that your child does not send us) any personal data over the Internet as this carries with it risks including the risk of access and interference by unauthorised third parties. Information passing over the Internet may be transmitted internationally (even when sender and recipient are located in the same country) via countries with weaker privacy and data protection laws than in your country of residence.
+
+**Data Retention**
+
+We retain your child’s/guardian personal data in line with our legal and regulatory obligations and only for lawful business and operational purposes.
+
+**Data Subject Rights**
+
+The DPA governs the processing of personal data and provides for the data subject’s rights. You will have the following rights with regards to your child’s/guardian personal data:
+
+**Information**
+
+You have the right to be informed of the use(s) to which your child’s/guardian personal data is to be put.
+
+**Access**
+
+Subject to any applicable law, regulations and/or banking industry guidelines, you have the right to request a copy of the personal data processed in relation to your child/guardian. We may be allowed by law to charge a fee for this.
+
+**Correction**
+
+You may request at any time that we correct your child’s/guardian personal data at your branch or through your relationship manager.
+
+**Erasure**
+
+In some circumstances, you have the right to ask us to delete your child’s/guardian personal data without undue delay, for example if we no longer have the authority to retain it or a valid reason to process it.
+
+**Object**
+
+In some circumstances you may have the right to object to how we process your child’s/guardian personal data or to withdraw your consent to the processing of your child’s/guardian personal data. If you have any concerns about how we process your child’s/guardian personal data, please discuss this at your branch or with your Relationship Manager. We may not be able to offer you the App if you do not want us to process the personal data we consider necessary to provide and operate the App.
+
+**Restriction**
+
+In some circumstances you may have the right to restrict how your child’s/guardian personal data is processed.
+
+**Portability**
+
+In some circumstances you may have the right to request the personal data given to us in a machine-readable format.
+
+**Privacy Policy Changes**
+
+We may amend or update this privacy policy from time to time. Whenever this privacy policy is updated, the new policy shall be displayed on the App. Any continued use of the SC Junior App after notification of the changes in the privacy policy shall constitute your acceptance of these changes.
+
+**Getting in Touch**
+
+**General Enquiries**  
+If you have any questions about this privacy policy or our treatment of your child’s/guardian personal data, please email us at scjunior.privacy@sc.com.
+
+Alternatively, you can contact us by mail:  
+The Data Privacy Officer  
+Standard Chartered Bank  
+Chiromo, 48 Westlands Road, Nairobi, Kenya  
+P.O. Box 30003-00100 G.P.O, Nairobi
+
+**Consent by parent/legal guardian/guardian**
+
+By clicking below, I, being the parent/legal guardian/guardian of the child whose personal information is being processed by SCB in connection with the SC Junior App, acknowledge and consent to the collection, use, storage, disclosure, transfer and any other lawful processing of my child’s/guardian personal data and use of cookies by SCB for the purposes set out above.
+
+I further confirm that I have provided my child’s/guardian information to SCB voluntarily and the information is accurate.
+
+**Privacy statement to be provided to minors**
+
+Your privacy is important, and that’s why we want to tell you how we will handle information about you when you use the SC Junior App.
+
+*   When your parent / legal guardian / guardian signs up to and downloads the App, they will give us your name and date of birth. When you use the App, we may collect information about how you use and interact with the App, the device you use to access the App, and goals you might set within the App.
+*   We will only use your information so that we can verify who you are, to enable you to use the App better, and to help us improve the App. We will not share your information with other people apart from your parent or legal guardian (unless required by law to do so).
+*   We want to ensure that you use the App in a safe online environment. You should always keep your password safe, and don’t share it with anyone. We will also take steps to keep your information secure. We will not post your information publicly on any media.
+*   We will not keep your personal information for longer than we need to.
+*   If you’re unhappy about how we collect or use your information – or want to change or know more about how we handle it – ask your parent/legal guardian to change the settings in the App. They may also contact us by email (we have given them an email address so they can do this), and we will respond to them. If you don’t want to use the App anymore, you can inform your parent/legal guardian, and they can delete or disable your account on the App for you. You can of course re-join the App in future if you wish to do so.
+
+We have already informed your parent/legal guardian/guardian about your rights concerning the App in a more detailed privacy statement: see [https://www.sc.com/ke/website-privacy-statement/](https://www.sc.com/ke/website-privacy-statement/) and they have agreed to this (or, if you are aged 18 or over, you confirm that you agree the processing of your personal data as set out in that more detailed privacy statement).
+
+**Privacy statement to be provided to guardian**
+
+Your privacy is important, and that’s why we want to tell you how we will handle information about you when you use the SC Junior App as a guardian to the child.
+
+*   When your child/guardian signs up to and downloads the App, you will have to register on the App and give us your name. Please note that you need not provide us your full legal name for your account registration.
+*   We will only use your information so that we can verify who you are, to enable you to use the App. We will not share your information with other people (unless required by law to do so).
+*   We want to ensure that you use the App in a safe online environment. You should always keep your password safe, and don’t share it with anyone. We will also take steps to keep your information secure.
+*   We will not keep your personal information for longer than we need to.
+*   If you’re unhappy about how we collect or use your information and want to know more about how we handle it, contact our DPO by email. If you don’t want to use the App anymore, you can inform the parent/legal guardian, and they can delete or disable your account on the App for you. You can of course re-join the App in future if you wish to do so.
+*   We have already informed the parent/legal guardian about your rights concerning the usage of the App in a more detailed privacy statement: see [https://www.sc.com/ke/website-privacy-statement/](https://www.sc.com/ke/website-privacy-statement/) and they have agreed to this and by registering with the App, you confirm that you agree the processing of your personal data as set out in that more detailed privacy statement). Notwithstanding your consent to us collecting your personal data, please ensure that you do not send us your personal data through the App unless absolutely necessary for the purposes of the App’s registration.
+
+© Standard Chartered 2024 

@@ -1,0 +1,299 @@
+## Standard Chartered Bank Service and Price Guide (February 2024)
+
+**Individual Account Tariff**
+
+**Priority Banking**
+
+| **Service** | **USD** | **GBP** | **EUR** | **KES** |
+|---|---|---|---|---|
+| Cash Handling Fee | Free | Free | Free | Free |
+| Monthly Ledger Fees | Free | Free | Free | Free |
+| Minimum Operating Balance | Zero | Zero | Zero | 2,000 |
+| Opening Balance | 50.00 | 50.00 | 50.00 | 2,000 |
+| E-Statements | Free | Free | Free | Free |
+| Standing Orders Between SCB Accounts | Free | Free | Free | Free |
+| SCB ATM Withdrawals | 0.30 | 0.20 | 0.30 | 35 |
+| Banker's cheques | 3.00 | 2.00 | 2.50 | 300 |
+| Cheque book 30 Leaves | 12.00 | 6.00 | 8.00 | 300 |
+| Electronic Funds Transfer Charge (local) | 1.50 | 1.10 | 1.35 | 100 |
+| Salary Processing | 1.50 | 1.10 | 1.35 | 100 |
+| Standing Orders setup to non SCB accounts | 3.00 | 2.00 | 2.50 | 300 |
+| Standing Orders processing to non SCB accounts | 1.50 | 1.00 | 1.25 | 150 |
+| Debit Card (First Card Only) | 3.00 | 3.50 | 3.00 | 300 |
+| Over the counter withdrawals | 3.00 | 2.00 | 2.50 | 300 |
+
+**Per Transaction Fee (Waived)**
+
+| **Service** | **USD** | **GBP** | **EUR** |
+|---|---|---|---|
+| **Local and Foreign Telegraphic Transfers** | Zero | Zero | Zero |
+| **Debit Card (International)** | 0.25% | 0.25% | 0.25% |
+
+**Monthly Ledger Fees: Balance Tier as follows:**
+
+| **Balance Tier (KES)** | **Monthly Ledger Fees (KES)** |
+|---|---|
+| KES 0 - KES 50,000 | 299 |
+| KES 50,001 - KES 135,000 | Zero |
+| KES 135,001- KES 300,000 | 2,000 |
+| KES 300,001- KES 500,000 | Free |
+| KES 500,001- KES 1,000,000 | Free |
+| KES 1,000,001 and above | Free |
+
+**Safari Savings Account**
+
+* Minimum/Opening Balance
+* E-Statements
+* Safari Savings Monthly Service Fees
+
+**Safari Junior Savings Account**
+
+* Minimum/Opening Balance
+* E-Statements
+* Safari Junior Savings Monthly Service Fees
+* One Banker’s Cheque Per Quarter
+
+**Foreign Currency Safari Account**
+
+* Minimum/Opening Balance
+* E-Statements
+* Monthly Service Fees
+
+**Foreign Currency Ordinary Current Account**
+
+* Free Unlimited Standing Orders Between Standard Chartered Accounts
+* Free Unlimited Local and Foreign Telegraphic Transfers
+* Free Unlimited Local ATM Cash Withdrawals - Standard Chartered Kenya
+* One Free International Debit Card (First Card Only)
+* One Free Local and One Free Foreign Currency Banker’s Cheque per Month
+* No Cash Handling Fee
+* E-Statements Free
+* One Free Cheque Book (30 Leaves)
+* Opening Balance
+* Minimum Operating Balance
+* Monthly Service Fees
+
+**Easy Banking Bundle Current Account* (Salary Account Plus a Credit Card)**
+
+* Minimum Operating Balance
+* Opening Balance
+* E-Statements
+* Over the counter withdrawals (Per Withdrawal)
+
+**Salary Account**
+
+* Minimum Operating Balance
+* Opening Balance
+* E-Statements
+* Monthly Service Fees
+* Cash Handling (Transaction below US$ 20,000)
+* Cash Handling (Transaction above US$ 20,000)
+* Priority membership Fee KES 2,999 (waived)
+
+**Person to Person Card Transfers**
+
+| **Currency** | **Charge %** | **Min (KES)** | **Max (KES)** |
+|---|---|---|---|
+| KES | 1% | 300 | 1300 |
+| GBP | 1% | 2.00 | 10.00 |
+| EUR | 1% | 3.00 | 12.00 |
+| USD | 1% | 3.00 | 15.00 |
+| CHF | 1% | 3.00 | 13.00 |
+| TZS | 1% | 6800 | 31000 |
+| UGX | 1% | 11300 | 50500 |
+
+**Foreign Currency Cheques**
+
+| **Currency** | **Cheque book 30 Leaves** | **Cheque Returned - Refer to drawer by SCB** | **Cheque Returned - Technical Reasons** | **Inward Unpaid cheques (Local & Foreign)** | **Stop-payment per notice** | **Purchase of Foreign Currency Draft (Customers only)** | **Cheques drawn on Local Banks** | **Cheques Sent on Collection - Minimum - Maximum** | **US Cheques drawn on UK Banks** | **Foreign Currency cheques Negotiated** |
+|---|---|---|---|---|---|---|---|---|---|---|
+| GBP | 6.00 | 35.50 | 8.00 | 7.00 | 2.00 | 11.00 | Free | 5% | 7.00 | 40.00 |
+| EUR | 8.00 | 40.50 | 9.00 | 8.00 | 3.00 | 12.00 | Free | 5% | 8.00 | 40.50 |
+| USD | 12.00 | 50.00 | 11.00 | 10.00 | 5.00 | 15.00 | Free | 5% | 10.00 | 50.00 | 85.00 | 1% |
+
+**Standing Orders (Local)**
+
+| **Service** | **KES** | **GBP** | **EUR** | **USD** |
+|---|---|---|---|---|
+| Set-up | 250 | 2.00 | 3.00 | 5.00 |
+| Processing Per Payment | 300 | 1.00 | 2.00 | 3.00 |
+| Amendment/Stopped | 200 | 1.00 | 2.00 | 3.00 |
+| Standing Order unpaid Due to Lack of Funds | 3,000 | 15.00 | 19.00 | 30.00 |
+
+**Local Currency Cheques**
+
+* Cheque Book (30 Leaves – Includes Priority Hifadhi)
+* Cheque Returned by us with the Answer: -`Refer to Drawer’ -`Effects not Cleared’
+* Cheques returned by us for: -`Technical Reasons’
+* Inward Unpaid Cheques
+* Counter Cheque: Customers Only
+* Stop Payment Per Notice
+* Retrieve Old Cheques - Per Cheque Leaf
+* Non-Compliant CTS (Cheque Truncation System) Cheques Issued
+
+**Mpesa/Airtel Money/TKash Charges (KES)**
+
+**Bank to Mobile Money Wallet Transfer Tier (KES)**
+
+| **Tier (KES)** | **SC DigiSmart Current Account** | **Hifadhi Current Account** |
+|---|---|---|
+| 0 - 8,000 | 4% | 3,000 |
+| 8,001 - 3,000,000 | Free | 1,500 |
+| 3,000,001 - Infinite | Free | 4% |
+
+**Credit Cards**
+
+| **Card Type** | **Annual Fee (KES)** | **Over Limit Fee (KES)** | **Late Payment Fee (KES)** | **Cash Advance Fee (%)** | **Supplementary Card Annual Fee (KES)** | **Card replacement fee (KES)** | **Credit Life Insurance Premium Per Month (1)* (%) | **Request for copy of previous months statement (KES)** | **Credit card FX transactions (min FX margin for international POS or cash sale) (2)** |
+|---|---|---|---|---|---|---|---|---|---|
+| Gold | 6,000 | 2,000 | 1,500 | 5% | 1,000 | 1,000 | 0.078% | 100 | 2.5% |
+| Platinum | 7,000 | 3,000 | 1,500 | 4% | 2,000 | 1,000 | 0.078% | 100 | 2.5% |
+| Infinite | 8,000 | 3,000 | 1,500 | 4% | 1,000 | 1,000 | 0.078% | 100 | 2.5% |
+
+**Fees & Interest Rate (KES)**
+
+| **Service** | **KES** | **GBP** | **EUR** | **USD** |
+|---|---|---|---|---|
+| Monthly Interest Rate (3) | 200 |  |  |  |
+| Overdrawn Minimum Interest Charge | 0.00 | 0.00 | 0.00 | 0.00 |
+
+**Overdrawn Minimum Interest Charge - (Equivalent in FCY)**
+
+| **Balance Tier (KES)** | **KES** | **GBP** | **EUR** | **USD** |
+|---|---|---|---|---|
+| KES 10 - KES 500 | 40 | 0.30 | 0.40 | 0.40 |
+| KES 501 - KES 10,000 | 80 | 0.60 | 0.80 | 0.80 |
+| KES 10,001 - KES 50,000 | 120 | 0.90 | 1.10 | 1.20 |
+| KES 50,001 - KES 100,000 | 160 | 1.20 | 1.50 | 1.60 |
+| KES 100,001 - KES 200,000 | 200 | 1.50 | 1.90 | 2.00 |
+| KES 200,001 - KES 500,000 | 250 | 1.90 | 2.30 | 2.50 |
+| KES 500,001 - KES 999,999 |  |  |  |  |
+
+**Pesalink Charges**
+
+**Personal Unsecured Loans**
+
+* Arrangement Fee 2.5% of loan amount
+
+**Unsecured Overdraft**
+
+* Arrangement Fee NIL - Minimum NIL
+
+**Personal Mortgage**
+
+* Arrangement Fee 1% of loan amount - Minimum KES 10,000
+
+**Personal Secured Overdraft**
+
+* Arrangement Fee NIL - Minimum NIL
+
+**SC Juza Mobile Loan**
+
+* Processing Fee 5.5%
+* Service Fee 5.5%** **chargeable on outstanding amount on day 31
+
+**Easy banking Bundle Current Account* (Salary Account Plus a Credit Card)**
+
+| **Balance Tier (KES)** | **Bill Payments (KES)** | **School Fee Payments (KES)** | **M-PESA (to transfer money from M-PESA to your bank account)** |
+|---|---|---|---|
+| 0 – 100 | 30 | 50 | As per M-PESA charges |
+| 101 – 500 | 11 | 50 | As per M-PESA charges |
+| 501 – 1,000 | 15 | 50 | As per M-PESA charges |
+| 1,001 – 1,500 | 18 | 50 | As per M-PESA charges |
+| 1,501 – 2,500 | 25 | 50 | As per M-PESA charges |
+| 2,501 – 3,500 | 35 | 50 | As per M-PESA charges |
+
+**All-In-One Current Account /Diva Current Account and X-Current Account* Savings Accounts Ordinary Current Account and Instant Access Accounts**
+
+| **Service** | **KES** | **GBP** | **EUR** | **USD** |
+|---|---|---|---|---|
+| Monthly Ledger Fees | Free | Free | Free | Free |
+| Minimum Operating Balance | 500 | 3.50 | 4.00 | 5.00 |
+| Opening Balance | 500 | 3.50 | 4.00 | 5.00 |
+| E-Statements | 250 | 2.00 | 2.00 | 2.50 |
+| SCB ATM Withdrawals | 35 | 0.20 | 0.30 | 0.35 |
+
+**Debit Cards**
+
+| **Service** | **KES** | **GBP** | **EUR** | **USD** |
+|---|---|---|---|---|
+| Debit Card Renewal | 500 | 11.00 | 12.00 | 15.00 |
+| Debit Card Issued | 600 |  |  |  |
+| Debit Card Replacement |  |  |  |  |
+| Debit Card Withdrawal at non-SCB(K) ATMs |  |  |  |  |
+| ATM Cash Withdrawals - per withdrawal |  |  |  |  |
+
+**Debit Card Transactions (Minimum FX Margin for International Point of Sale)**
+
+| **Location** | **FX Margin (%)** |
+|---|---|
+| Within Central Europe, Middle East and Africa (CEMEA) | 6.25% |
+| Outside (CEMEA) | 5.50% |
+
+**Banker’s Drafts**
+
+| **Service** | **KES** |
+|---|---|
+| Customers Only | 50 |
+| Re-purchase of Draft | 100 |
+
+**KRA Tax Payments**
+
+| **Amount (KES)** | **KES** | **GBP** | **EUR** | **USD** |
+|---|---|---|---|---|
+| KES 10 - KES 50,000 | 150 | Free | Free | Free |
+| KES 50,001 - KES 150,000 | 500 | Free | Free | Free |
+| KES 150,001 - KES 300,000 |  | Free | Free | Free |
+| KES 300,001 and above |  | Free | Free | Free |
+
+**Statements & Balances**
+
+| **Service** | **KES** | **GBP** | **EUR** | **USD** |
+|---|---|---|---|---|
+| From ATM (for all Statements & Balances) | Free | Free | Free | Free |
+| From Call Centre (for all Enquiries & Balance) | Free | Free | Free | Free |
+| Account Closing | 250 | 2.00 | 2.00 | 2.50 |
+| Balance Enquiry Over the Counter | Free | Free | Free | Free |
+| Duplicate / Extra Paper Statement -per page | 50 | 0.40 | 0.40 | 0.50 |
+| E-Statements | Free | Free | Free | Free |
+| Paper Statement Sent by Post Office (per statement) |  |  |  |  |
+
+**Salary Processing**
+
+| **Type** | **KES** |
+|---|---|
+| Electronic | 150 |
+| Manual | 150 |
+
+**Credit Clearing Inward Payments/Outward Payments**
+
+| **Service** | **KES** |
+|---|---|
+| Drafts, International Money Orders and Mail Transfer - Per Item | 1,000 |
+| Funds Transfer through Interbank | 1,000 |
+| Inward TTs/SWIFT - Transmission Costs | 1,000 |
+| Telegraphic/SWIFT Transfer 1,400 - Minimum - Maximum | 500 |
+| RTGS Charges |  |
+
+**School Fee Payments**
+
+* School Fee Payments at Branch Waived
+
+**Bank Opinion / Audit Report**
+
+* Customers KES 1,000
+
+**Abbreviations:**
+
+* ATM: Automated Teller Machine
+* US$: United States Dollars
+* LCY: Local Currency
+* FCY: Foreign Currency
+
+*Correspondent bank charges may apply
+
+SHA-Charges shared between the sender and recipient
+
+OUR- Sender bears all the charges
+
+BEN-Recipient bears all the charges
+
+*Correspondent bank charges may apply
