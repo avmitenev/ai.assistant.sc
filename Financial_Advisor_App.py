@@ -47,15 +47,26 @@ def show_ui(qa, prompt_to_user="How may I help you?"):
             st.write(prompt)
 
     if st.session_state.messages[-1]["role"] != "assistant":
+        response = None
         with st.chat_message("assistant"):
             with st.spinner("Thinking..."):
-                try:
-                    session_id = get_script_run_ctx().session_id
-                    response = ask_question(qa, prompt, session_id)
-                    st.markdown(response.content)
-                except Exception as e:
-                    logging.error(f"Error during question answering: {e}")
-                    st.write("Sorry, there was an error processing your request.")
+                retry_num = 5
+                for i in range(retry_num):
+                    try:
+                        logging.info('Start processing')
+                        session_id = get_script_run_ctx().session_id
+                        response = ask_question(qa, prompt, session_id)
+                        logging.info('End processing')
+                        st.markdown(response.content)
+                        break
+                    except Exception as e:
+                        logging.error(f"Error during question answering: {e}")
+                        logging.info(f"Attempt {i} failed")
+                        if i == (retry_num - 1):
+                            st.write("Sorry, there was an error processing your request.")
+                        else:
+                            logging.info("Retrying")
+                            
         message = {"role": "assistant", "content": response.content if response else "Error"}
         st.session_state.messages.append(message)
 
